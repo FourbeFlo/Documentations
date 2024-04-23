@@ -1,4 +1,4 @@
-# Documentation
+# Documentations
 There are: 
 notebooks that facilitate data processing
 scripts .sh for use of HPC
