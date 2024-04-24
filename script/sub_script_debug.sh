@@ -4,10 +4,10 @@
 #SBATCH --gpus=2
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=24GB
-#SBATCH --ntasks=8
+#SBATCH --ntasks-per-node=8
 #SBATCH --gres=gpu:2,VramPerGpu:24GB
 
-module load fosscuda/2020b Python/3.8.6
+module load fosscuda/2020b GCCcore/11.2.0 GCCcore/11.3.0 Python/3.9.6
 source ~/kraken-env/bin/activate
 wget https://github.com/Gallicorpora/Segmentation-and-HTR-Models/releases/download/1.0.0/Gallicorpora+_best.mlmodel
 
