@@ -1,4 +1,5 @@
 #!/bin/env bash
+git clone https://github.com/FourbeFlo/Lambertus
 git clone https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16
 git clone https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16
 mkdir train_data
@@ -16,3 +17,4 @@ rm -rf Bucer_Eph_b Cajetan_Rom Daneau_1-Tim Megander_Eph
 cd ~
 rm -rf FONDUE-LA-PRINT-16
 rm -rf FONDUE-FR-PRINT-16
+rm -rf Lambertus
