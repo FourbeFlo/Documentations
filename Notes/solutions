@@ -1,0 +1,6 @@
+# some solutions
+1. sbatch  
+error : 
+sbatch: error: instead of expected UNIX line breaks (\n).
+solution : 
+dos2unix Documentations/script/sub_script_debug.sh
