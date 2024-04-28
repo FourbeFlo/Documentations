@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/env bash
+
 #SBATCH --partition=shared-gpu
 #SBATCH --time=08:00:00
 #SBATCH --gpus=2
