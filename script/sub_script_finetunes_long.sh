@@ -33,4 +33,4 @@ srun ketos train -f alto -i Gallicorpora+_best.mlmodel --resize add -d cuda:0 -r
 
 # The script can be executed with the following command:
 # sbatch NAME.sh
-# sbatch scripts/submission_script_fine-tuning_100p.sh
+# sbatch scripts/Documentations/script/sub_script_finetunes_long.sh
