@@ -1,6 +1,6 @@
 #!/bin/env bash
 
-# Submission script prepared by S. Solfrini
+# Submission script prepared by S. Solfrini and costumized by F. Goy
 
 # Request a GPU resource for a specific job.
 
