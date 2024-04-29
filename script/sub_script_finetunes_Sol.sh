@@ -14,7 +14,7 @@
 
 # Load necessary modules.
 
-module load fosscuda/2020b Python/3.8.6
+module load CUDA/11.8.0 GCCcore/11.2.0 GCCcore/11.3.0 Python/3.9.6
 
 # Activate a Python virtual environment from a folder named 'kraken-env2' in the user's home directory.
 
