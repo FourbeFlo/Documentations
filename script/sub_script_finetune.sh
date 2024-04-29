@@ -4,9 +4,9 @@
 #SBATCH --time=08:00:00
 #SBATCH --gpus=2
 #SBATCH --output=kraken-%j.out
-#SBATCH --mem=24GB
-#SBATCH --ntasks-per-node=8
-#SBATCH --gres=gpu:2,VramPerGpu:24GB
+#SBATCH --mem=34GB
+#SBATCH --ntasks-per-node=12
+#SBATCH --gres=gpu:2,VramPerGpu:24G
 
 module load CUDA/11.8.0 GCCcore/11.2.0 GCCcore/11.3.0 Python/3.9.6
 source ~/kraken-env/bin/activate
