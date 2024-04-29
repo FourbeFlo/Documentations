@@ -18,7 +18,7 @@ module load CUDA/11.8.0 GCCcore/11.2.0 GCCcore/11.3.0 Python/3.9.6
 
 # Activate a Python virtual environment from a folder named 'kraken-env2' in the user's home directory.
 
-source ~/kraken-env2/bin/activate
+source ~/kraken-env/bin/activate
 
 # downlaod the model
 wget https://github.com/Gallicorpora/Segmentation-and-HTR-Models/releases/download/1.0.0/Gallicorpora+_best.mlmodel
