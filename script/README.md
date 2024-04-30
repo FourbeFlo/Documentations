@@ -1,8 +1,8 @@
 # Scripts : 
 
 Some scripts still need to be improved to enable true automation of the hpc cluster. 
-*the sub_ script are batch for the traing of the OCR
-*the other are just normal bash script
+- the sub_ script are batch for the traing of the OCR
+* the other are just normal bash script
 
 table of result: 
 
