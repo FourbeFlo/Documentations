@@ -5,7 +5,7 @@
 # Request a GPU resource for a specific job.
 
 #SBATCH --partition=shared-gpu
-#SBATCH --time=11:59:00
+#SBATCH --time=15:00:00
 #SBATCH --gpus=1
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=12GB
@@ -37,3 +37,6 @@ srun ketos train -f alto -i Gallicorpora+_best.mlmodel --resize add -d cuda:0 -r
 # The script can be executed with the following command:
 # sbatch NAME.sh
 # sbatch scripts/Documentations/script/sub_script_finetunes_long.sh
+
+#personal note : the script is working but there is not enough time for my training
+#it almost work i try it with 15h (30.04.2024) 
