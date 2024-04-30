@@ -1,4 +1,5 @@
 #!/bin/bash
+# for now it doesn't work
 
 # Variables
 remote_user="goyf"  # Remote server username
