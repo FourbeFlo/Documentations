@@ -4,9 +4,9 @@
 #SBATCH --time=08:00:00
 #SBATCH --gpus=2
 #SBATCH --output=kraken-%j.out
-#SBATCH --mem=34GB
-#SBATCH --ntasks-per-node=12
-#SBATCH --gres=gpu:2,VramPerGpu:24G
+#SBATCH --mem=30GB
+#SBATCH --cpus-per-task=8
+#SBATCH --gres=gpu:2,VramPerGpu:20G
 
 # Load necessary modules.
 
