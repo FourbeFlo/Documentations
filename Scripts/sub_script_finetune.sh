@@ -1,7 +1,7 @@
 #!/bin/env bash
 
 #SBATCH --partition=shared-gpu
-#SBATCH --time=08:00:00
+#SBATCH --time=10:00:00
 #SBATCH --gpus=2
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=30GB
@@ -21,7 +21,7 @@ wget https://github.com/Gallicorpora/Segmentation-and-HTR-Models/releases/downlo
 
 # Start ketos training to fine-tune an existing model.
 echo "KETOS training"
-srun ketos train -f alto -i Gallicorpora+_best.mlmodel --resize add -d cuda:0 -r 0.0001 --lag 10 --workers 12 --normalization NFD train_data/*/*/*.xml
+srun ketos train -f alto -i Gallicorpora+_best.mlmodel --resize add -d cuda:0 -r 0.0001 --lag 10 --workers 8 --normalization NFD train_data/*/*/*.xml
 
 #clean
 rm Gallicorpora+_best.mlmodel
