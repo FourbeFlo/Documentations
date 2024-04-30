@@ -12,7 +12,7 @@ source ~/yaltai-env/bin/activate
 # install the right packages
 pip install --upgrade pip
 pip install YALTAi
-pip3 pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 torchtext==0.15.2 torchdata==0.6.1 --index-url https://download.pytorch.org/whl/cu117
+pip3 install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 torchtext==0.15.2 torchdata==0.6.1 --index-url https://download.pytorch.org/whl/cu117
 
 deactivate
 
