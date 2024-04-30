@@ -6,7 +6,7 @@ Some scripts still need to be improved to enable true automation of the hpc clus
 
 table of result: 
 
-| scrpts                       | working | on test | conception |
+| scripts                      | working | on test | conception |
 |------------------------------|---------|---------|------------|
 | clean.sh                     | Y       | N       | -          |
 | deploy-krak.sh               | Y       | N       | -          |
