@@ -9,11 +9,10 @@ table of result:
 | scripts                      | working | on test | conception |
 |------------------------------|---------|---------|------------|
 | clean.sh                     | Y       | N       | -          |
+| deploy_gen.sh                | Y       | N       | -          |
 | deploy-krak.sh               | Y       | N       | -          |
 | deploy_seg_env.sh            | N       | Y       | -          |
-| deploy.sh                    | Y       | N       | -          |
 | deployspec.sh                | Y       | N       | -          |
-| send_file.sh                 | N       | N       | -          |
 | sub_script_finetunes_long.sh | Y       | N       | -          |
 | sub_scipt_finetunes.sh       | Y       | N       | -          |
 | sub_scipt_debug.sh           | N       | Y       | -          |
