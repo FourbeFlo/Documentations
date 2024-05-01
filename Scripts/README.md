@@ -17,6 +17,8 @@ table of result:
 | sub_scipt_finetunes.sh       | Y       | N       | -          |
 | sub_scipt_debug.sh           | N       | Y       | -          |
 | send_file.sh                 | N       | N       |Y           |
+-----------------------------------------------------------------
+
 Y=Yes
 N=No
 \- = no comment
