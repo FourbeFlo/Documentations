@@ -17,10 +17,11 @@ table of result:
 | sub_scipt_finetunes.sh       | Y       | N       | -          |
 | sub_scipt_debug.sh           | N       | Y       | -          |
 | send_file.sh                 | N       | N       |Y           |
------------------------------------------------------------------
 
-Y=Yes
-N=No
-\- = no comment
+
+* Y=Yes
+* N=No
+* \- = no comment
+
 NB: deploy_seg_env.sh  is working for it self the combination with a batch script need still to be tested
 1.05.2024
