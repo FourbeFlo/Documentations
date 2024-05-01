@@ -13,11 +13,11 @@ table of result:
 | deploy_seg_env.sh            | N       | Y       | -          |
 | deploy.sh                    | Y       | N       | -          |
 | deployspec.sh                | Y       | N       | -          |
-| send_file.sh                 | N       | N       |Y           |
+| send_file.sh                 | N       | N       | -          |
 | sub_script_finetunes_long.sh | Y       | N       | -          |
 | sub_scipt_finetunes.sh       | Y       | N       | -          |
 | sub_scipt_debug.sh           | N       | Y       | -          |
-| sub_script_seg.sh            | N       | N       | -          |
+| sub_script_seg.sh            | N       | N       | Y          |
 
 
 
