@@ -12,8 +12,8 @@ source ~/yaltai-env/bin/activate
 # install the right packages
 pip install --upgrade pip
 pip install YALTAi
-pip3 install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 torchtext==0.15.2 torchdata==0.6.1 --index-url https://download.pytorch.org/whl/cu117
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 deactivate
 
-#this virtual environnement will be the one use by jupypter notebook kernel
+#this virtual environnement will be the one use by jupypter notebook kernel for the segmentation 
