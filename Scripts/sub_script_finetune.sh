@@ -1,7 +1,7 @@
 #!/bin/env bash
 
 #SBATCH --partition=shared-gpu
-#SBATCH --time=10:00:00
+#SBATCH --time=08:00:00
 #SBATCH --gpus=2
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=30GB
@@ -26,4 +26,5 @@ srun ketos train -f alto -i Gallicorpora+_best.mlmodel --resize add -d cuda:0 -r
 #clean
 rm Gallicorpora+_best.mlmodel
 
-# for now the script doesn't work there is a probleme with the memory and the 2 GPU uses
+# last time it was used the job took between 20-22 minute by model for 10 epoch, it made 19 models. So it was running during almost 6h40. 
+# ask for 8h If you want to play safety otherwise 7h.   
