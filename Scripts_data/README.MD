@@ -9,3 +9,6 @@ table of result:
 |------------------------------|---------|---------|------------|
 |downlaod-rn.erara.sh          |Y        |         |            |
 
+* Y=Yes
+* N=No
+* \- = no comment
