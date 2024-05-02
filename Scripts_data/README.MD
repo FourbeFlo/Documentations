@@ -14,4 +14,4 @@ table of result:
 * N=No
 * \- = no comment
 
-download-rn-ext.erara-sh : a script in which the identifiant are values that you can imput from the terminal or from a list/dictionnary? so it would be done at a larger spectrum.
+download-rn-ext.erara-sh :a script in which the identifiers are values that you can change from the terminal or a list/dictionary, so that the work can be done on a larger scale.
