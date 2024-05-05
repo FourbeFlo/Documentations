@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# for the e-rara database :
 # Define the base URL and range of URLs
 
 base_url="https://www.e-rara.ch/download/webcache/1000/"
@@ -21,12 +21,11 @@ done
 
 echo "Download and renaming complete!"
 
-#using the script
+#use the script
 
-#in e-rara only the final part of the link is the file's identifiant
-#for section that you want to downlaod
-#take the identifiant of the first identifiant as start_index it looks like this "9557819"
-#take the indentifiant of the last indentifiant as end_index
-#the script downlaod alle the data inbetween 
+#On e-rara only the final part of the link is the unique file identifier.
+#use this number as start_index and end_index
+
+#More information on the general guideline "coming soon".
 
 #more information on the generale Guideline "comming soon"
