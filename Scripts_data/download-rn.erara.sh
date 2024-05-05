@@ -26,6 +26,4 @@ echo "Download and renaming complete!"
 #On e-rara only the final part of the link is the unique file identifier.
 #use this number as start_index and end_index
 
-#More information on the general guideline "coming soon".
-
 #more information on the generale Guideline "comming soon"
