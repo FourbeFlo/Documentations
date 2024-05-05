@@ -7,7 +7,8 @@ table of result:
 
 | scripts                      | working | on test | conception |
 |------------------------------|---------|---------|------------|
-|download-rn.erara.sh          |Y        |         |            |
+|download-rn.erara.sh          |Y        |-        | -          |
+|download-rn.mdz.sh            |Y        |N        | -          |
 |download-rn-ext.erara-sh      |N        |N        | Y          |
 
 * Y=Yes
