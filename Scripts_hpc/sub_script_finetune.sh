@@ -28,3 +28,4 @@ rm Gallicorpora+_best.mlmodel
 
 # last time it was used the job took between 20-22 minute by model for 10 epoch, it made 19 models. So it was running during almost 6h40. 
 # ask for 8h If you want to play safety otherwise 7h.   
+#c'est faut
