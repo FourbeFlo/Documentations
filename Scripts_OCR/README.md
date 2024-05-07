@@ -1,4 +1,4 @@
-# Scripts_hpc : 
+# Scripts_OCR : 
 
 Some scripts still need to be improved to enable true automation of the hpc cluster. 
 * the sub_ script are batch for the training of the OCR
@@ -16,7 +16,7 @@ table of result:
 | sub_script_finetunes_long.sh | Y       | N       | -          |
 | sub_scipt_finetunes.sh       | Y       | N       | -          |
 | sub_scipt_debug.sh           | N       | Y       | -          |
-| sub_script_seg.sh            | N       | N       | Y          |
+
 
 
 
