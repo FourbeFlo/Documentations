@@ -13,12 +13,12 @@ module load CUDA/11.8.0 GCCcore/11.3.0 Python/3.9.6
 source ~/yaltai-env/bin/activate
 
 #load the segmentation model 
-python Test/seg.py
+python Documentations/segmentation_script/seg.py
 
 #use the model with a cpu
 srun yaltai kraken --device cpu -I "content/image/*" --suffix ".xml" segment --yolo content/seg_model.pt
 
 # use the python script for changing the name of the file
-python Test/change_xml_file_name.py
+python Documentations/segmentation_script/change_xml_file_name.py
 #zip the file 
 zip -r altos_segmented.zip content/image/*xml
