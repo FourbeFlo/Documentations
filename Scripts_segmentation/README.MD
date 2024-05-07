@@ -17,3 +17,4 @@ table of result:
 * \- = no comment
 
 for now the script.py are very simple so... they work! with the requirement.
+for beginner there is a more commented version in the Notebook files.
