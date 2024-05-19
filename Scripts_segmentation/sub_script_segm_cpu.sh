@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #SBATCH --partition=shared-cpu 
-#SBATCH --time=00:45:00
+#SBATCH --time=00:04:30
 #SBATCH --ntasks=6
 #SBATCH --mem-per-cpu=6000 # in MB
 #SBATCH --output=yaltai-out.%j 
