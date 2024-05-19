@@ -13,5 +13,5 @@ mv segmonto_boscaiola.pt content/seg_model.pt
 #downlaod a kraken model for the line 
 wget https://github.com/FourbeFlo/Lambertus/releases/download/model/Lambertus_03_best.mlmodel
 mv Lambertus_03_best.mlmodel content/htr_model.mlmodel
-
-# now you can use the batch script => sub_script_seg.sh 
+ 
+#now you can use the batch script => sub_script_seg.sh 
