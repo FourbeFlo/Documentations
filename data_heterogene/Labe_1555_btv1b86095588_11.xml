@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>Labe_1555_btv1b86095588_11.jpg</ns0:fileName>
+      
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT4319" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><ns0:OtherTag ID="BT4318" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><ns0:OtherTag ID="BT4317" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><ns0:OtherTag ID="BT4316" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><ns0:OtherTag ID="BT4315" LABEL="MainZone" DESCRIPTION="block type MainZone" /><ns0:OtherTag ID="BT4314" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><ns0:OtherTag ID="BT4313" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><ns0:OtherTag ID="BT4321" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><ns0:OtherTag ID="BT4320" LABEL="StampZone" DESCRIPTION="block type StampZone" />
+    <ns0:OtherTag ID="LT1422" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><ns0:OtherTag ID="LT1421" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><ns0:OtherTag ID="LT1420" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" />
+  </ns0:Tags>
+  
+  <ns0:Layout>
+    <ns0:Page WIDTH="1384" HEIGHT="2347" PHYSICAL_IMG_NR="10" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1384" HEIGHT="2347">
+        
+        <ns0:TextBlock HPOS="371" VPOS="495" WIDTH="718" HEIGHT="1017" ID="eSc_textblock_5f50a001" TAGREFS="BT4321">
+          <ns0:Shape><ns0:Polygon POINTS="371 495 371 1512 1089 1512 1089 495" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_00db5e3f" TAGREFS="LT1420" BASELINE="528 530 941 528 1043 518" HPOS="524" VPOS="473" WIDTH="519" HEIGHT="78">
+            <ns0:Shape><ns0:Polygon POINTS="528 530 524 488 794 492 814 479 818 475 820 475 822 475 1037 473 1043 518 1041 533 968 549 967 549 965 549 933 537 875 551 873 551 526 545" /></ns0:Shape>
+	    <ns0:String CONTENT="Anpay mj MMr MIo¬" HPOS="524" VPOS="473" WIDTH="519" HEIGHT="78" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_d5f84c0f" TAGREFS="LT1420" BASELINE="418 629 1068 627" HPOS="415" VPOS="537" WIDTH="651" HEIGHT="108">
+            <ns0:Shape><ns0:Polygon POINTS="416 627 416 645 497 635 524 645 526 645 528 645 530 645 565 635 1064 643 1066 625 1062 557 961 557 953 553 906 539 904 539 902 539 900 539 898 539 878 553 873 557 835 557 828 551 806 537 804 537 802 537 800 537 700 549 687 549 681 547 645 537 644 537 642 537 640 537 638 537 628 547 618 555 604 547 591 537 589 537 587 537 540 537 538 537 536 537 534 537 526 545 512 555 415 543 416 627" /></ns0:Shape>
+	    <ns0:String CONTENT="EVVRES" HPOS="415" VPOS="537" WIDTH="651" HEIGHT="108" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_dbc02ac1" TAGREFS="LT1420" BASELINE="974 557 1080 555" HPOS="970" VPOS="510" WIDTH="114" HEIGHT="63">
+            <ns0:Shape><ns0:Polygon POINTS="974 557 970 528 1074 510 1080 555 1084 561 1070 573 1068 573 1066 573 1064 573 1027 567 1002 563 976 573" /></ns0:Shape>
+	    <ns0:String CONTENT="3j" HPOS="970" VPOS="510" WIDTH="114" HEIGHT="63" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_4e6775b7" TAGREFS="LT1420" BASELINE="458 803 1006 807" HPOS="450" VPOS="731" WIDTH="556" HEIGHT="98">
+            <ns0:Shape><ns0:Polygon POINTS="458 803 458 745 520 747 530 745 563 731 565 731 567 731 642 731 644 731 645 731 661 745 665 745 698 733 700 733 702 733 704 733 738 745 753 749 781 745 810 739 812 739 1006 745 1006 807 1004 819 736 829 734 829 732 829 696 819 469 827 467 827 465 827 463 827 450 815" /></ns0:Shape>
+	    <ns0:String CONTENT="LOVÏZE LABE'" HPOS="450" VPOS="731" WIDTH="556" HEIGHT="98" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_75bab04a" TAGREFS="LT1420" BASELINE="665 717 718 717 741 717 781 715" HPOS="661" VPOS="661" WIDTH="118" HEIGHT="72">
+            <ns0:Shape><ns0:Polygon POINTS="663 731 777 733 779 713 775 663 661 661 663 715" /></ns0:Shape>
+	    <ns0:String CONTENT="D E" HPOS="661" VPOS="661" WIDTH="118" HEIGHT="72" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_b7b6a089" TAGREFS="LT1420" BASELINE="532 882 929 887" HPOS="528" VPOS="831" WIDTH="401" HEIGHT="76">
+            <ns0:Shape><ns0:Polygon POINTS="532 882 532 835 720 842 736 841 779 831 781 831 783 831 784 831 784 833 794 841 796 844 927 846 929 887 925 907 528 897" /></ns0:Shape>
+	    <ns0:String CONTENT="LIONNOIZE." HPOS="528" VPOS="831" WIDTH="401" HEIGHT="76" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_380abcfc" TAGREFS="LT1420" BASELINE="434 1097 760 1094" HPOS="430" VPOS="1018" WIDTH="329" HEIGHT="102">
+            <ns0:Shape><ns0:Polygon POINTS="434 1114 454 1105 505 1105 514 1114 518 1118 520 1118 522 1118 524 1120 618 1120 618 1118 620 1118 630 1114 647 1105 675 1114 685 1116 687 1116 689 1116 691 1116 692 1116 696 1114 710 1105 757 1112 759 1093 755 1028 540 1018 538 1018 536 1018 508 1028 460 1018 458 1018 456 1018 430 1026 432 1095" /></ns0:Shape>
+	    <ns0:String CONTENT="Lf R" HPOS="430" VPOS="1018" WIDTH="329" HEIGHT="102" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_a642fed3" TAGREFS="LT1420" BASELINE="418 1261 1021 1269" HPOS="415" VPOS="1189" WIDTH="606" HEIGHT="127">
+            <ns0:Shape><ns0:Polygon POINTS="418 1261 416 1212 458 1202 460 1202 461 1202 463 1202 473 1208 493 1220 550 1208 552 1208 553 1208 555 1208 575 1226 602 1226 649 1204 651 1204 653 1204 655 1204 739 1226 792 1200 794 1200 796 1200 886 1218 939 1191 945 1189 947 1189 949 1189 1021 1189 1021 1269 1021 1286 937 1314 935 1314 935 1316 873 1316 871 1314 714 1298 610 1298 593 1310 591 1310 589 1310 587 1310 585 1310 583 1310 542 1281 415 1279" /></ns0:Shape>
+	    <ns0:String CONTENT="PAR IAN DE TOVRNES." HPOS="415" VPOS="1189" WIDTH="606" HEIGHT="127" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_f82550e9" TAGREFS="LT1420" BASELINE="608 1210 855 1210" HPOS="608" VPOS="1151" WIDTH="251" HEIGHT="81">
+            <ns0:Shape><ns0:Polygon POINTS="608 1210 608 1171 677 1171 679 1169 706 1151 708 1151 710 1151 712 1151 755 1151 757 1151 759 1151 784 1167 788 1169 794 1167 828 1151 830 1151 831 1151 833 1151 835 1151 859 1165 855 1210 855 1224 714 1232 712 1232 689 1228 638 1220 610 1230" /></ns0:Shape>
+	    <ns0:String CONTENT="A LION" HPOS="608" VPOS="1151" WIDTH="251" HEIGHT="81" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_32d53c4e" TAGREFS="LT1420" BASELINE="604 1328 839 1328" HPOS="604" VPOS="1288" WIDTH="235" HEIGHT="53">
+            <ns0:Shape><ns0:Polygon POINTS="604 1328 604 1288 839 1298 839 1328 839 1341 604 1341" /></ns0:Shape>
+	    <ns0:String CONTENT="M. D. LV." HPOS="604" VPOS="1288" WIDTH="235" HEIGHT="53" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_419395bb" TAGREFS="LT1420" BASELINE="405 1433 1027 1441" HPOS="401" VPOS="1363" WIDTH="626" HEIGHT="99">
+            <ns0:Shape><ns0:Polygon POINTS="405 1433 401 1378 446 1363 448 1363 450 1363 452 1363 454 1363 471 1378 538 1378 571 1365 573 1365 575 1365 577 1365 612 1380 614 1380 618 1380 696 1369 698 1369 700 1369 702 1369 722 1382 726 1384 771 1384 773 1382 802 1367 804 1367 806 1367 873 1367 1027 1386 1027 1441 1027 1451 982 1462 980 1462 978 1462 810 1449 792 1449 790 1449 775 1461 773 1461 771 1461 771 1462 718 1462 716 1461 714 1461 671 1449 663 1447 653 1449 593 1459 591 1459 589 1459 552 1447 544 1445 536 1447 512 1457 510 1457 508 1457 401 1445" /></ns0:Shape>
+	    <ns0:String CONTENT="Auec Priuilege du Roy." HPOS="401" VPOS="1363" WIDTH="626" HEIGHT="99" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="1058" VPOS="2136" WIDTH="199" HEIGHT="90" ID="eSc_textblock_c55c1655" TAGREFS="BT4317">
+          <ns0:Shape><ns0:Polygon POINTS="1058 2136 1058 2226 1257 2226 1257 2136" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_38e25507" TAGREFS="LT1422" BASELINE="1078 2190 1229 2190" HPOS="1076" VPOS="2129" WIDTH="155" HEIGHT="81">
+            <ns0:Shape><ns0:Polygon POINTS="1078 2190 1076 2145 1190 2129 1192 2129 1194 2129 1231 2141 1229 2190 1229 2198 1158 2210 1156 2210 1076 2198" /></ns0:Shape>
+	    <ns0:String CONTENT="1513" HPOS="1076" VPOS="2129" WIDTH="155" HEIGHT="81" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="680" VPOS="919" WIDTH="94" HEIGHT="125" ID="eSc_textblock_5b637c7a" TAGREFS="BT4314">
+          <ns0:Shape><ns0:Polygon POINTS="680 919 680 1044 774 1044 774 919" /></ns0:Shape>
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="702" VPOS="904" WIDTH="377" HEIGHT="399" ID="eSc_textblock_c602c1d4" TAGREFS="BT4320">
+          <ns0:Shape><ns0:Polygon POINTS="1079 1303 1079 904 702 904 702 1303" /></ns0:Shape>
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="3" VPOS="1833" WIDTH="362" HEIGHT="241" ID="eSc_textblock_ee5daa0f" TAGREFS="BT4320">
+          <ns0:Shape><ns0:Polygon POINTS="365 2074 365 1833 3 1833 3 2074" /></ns0:Shape>
+          
+        </ns0:TextBlock>
+        
+
+        
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

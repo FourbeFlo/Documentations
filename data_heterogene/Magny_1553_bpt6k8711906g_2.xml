@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>Magny_1553_bpt6k8711906g_2.jpg</ns0:fileName>
+      
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT4943" LABEL="MainZone" DESCRIPTION="block type MainZone" /><ns0:OtherTag ID="BT4944" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><ns0:OtherTag ID="BT4945" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><ns0:OtherTag ID="BT4946" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><ns0:OtherTag ID="BT4947" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><ns0:OtherTag ID="BT4948" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><ns0:OtherTag ID="BT4949" LABEL="DamageZone" DESCRIPTION="block type DamageZone" /><ns0:OtherTag ID="BT4950" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><ns0:OtherTag ID="BT4981" LABEL="CustomZone" DESCRIPTION="block type CustomZone" /><ns0:OtherTag ID="BT4982" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone" /><ns0:OtherTag ID="BT4983" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><ns0:OtherTag ID="BT4984" LABEL="MusicZone" DESCRIPTION="block type MusicZone" /><ns0:OtherTag ID="BT4985" LABEL="SealZone" DESCRIPTION="block type SealZone" /><ns0:OtherTag ID="BT4986" LABEL="StampZone" DESCRIPTION="block type StampZone" /><ns0:OtherTag ID="BT4987" LABEL="TableZone" DESCRIPTION="block type TableZone" />
+    <ns0:OtherTag ID="LT1591" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><ns0:OtherTag ID="LT1590" LABEL="CustomLine" DESCRIPTION="line type CustomLine" /><ns0:OtherTag ID="LT1593" LABEL="MusicLine" DESCRIPTION="line type MusicLine" /><ns0:OtherTag ID="LT1592" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine" /><ns0:OtherTag ID="LT1577" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><ns0:OtherTag ID="LT1576" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" />
+  </ns0:Tags>
+  
+  <ns0:Layout>
+    <ns0:Page WIDTH="1804" HEIGHT="2864" PHYSICAL_IMG_NR="1" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1804" HEIGHT="2864">
+        
+
+        
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

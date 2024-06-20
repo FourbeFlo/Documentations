@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>Apologia_1534_22_047ba_default.jpg</ns0:fileName>
+      
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><ns0:OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone" /><ns0:OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><ns0:OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><ns0:OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><ns0:OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><ns0:OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><ns0:OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><ns0:OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone" />
+    <ns0:OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><ns0:OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><ns0:OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine" /><ns0:OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><ns0:OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine" />
+  </ns0:Tags>
+  
+  <ns0:Layout>
+    <ns0:Page WIDTH="1546" HEIGHT="2351" PHYSICAL_IMG_NR="18" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1546" HEIGHT="2351">
+        
+        <ns0:TextBlock HPOS="228" VPOS="394" WIDTH="640" HEIGHT="74" ID="eSc_textblock_23a7e711" TAGREFS="BT654">
+          <ns0:Shape><ns0:Polygon POINTS="232 394 228 447 864 468 868 415" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_7af28aca" TAGREFS="LT210" BASELINE="241 438 860 456" HPOS="239" VPOS="399" WIDTH="621" HEIGHT="67">
+            <ns0:Shape><ns0:Polygon POINTS="844 409 583 403 574 403 554 403 534 403 515 401 495 401 476 401 456 401 436 401 417 401 397 401 378 399 358 399 338 399 319 399 299 399 280 399 260 399 241 399 241 438 239 446 856 466 860 456 858 411 848 411" /></ns0:Shape>
+	    <ns0:String CONTENT="DE BARBA SACERDOTVM." HPOS="239" VPOS="399" WIDTH="621" HEIGHT="67" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="160" VPOS="459" WIDTH="808" HEIGHT="1356" ID="eSc_textblock_6b39fe35" TAGREFS="BT651">
+          <ns0:Shape><ns0:Polygon POINTS="160 459 160 1815 966 1815 968 492" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_6f3e4ea6" TAGREFS="LT210" BASELINE="174 507 920 530" HPOS="172" VPOS="464" WIDTH="748" HEIGHT="74">
+            <ns0:Shape><ns0:Polygon POINTS="918 493 909 487 779 474 777 474 562 476 540 466 538 466 536 466 497 474 491 466 489 466 489 464 487 464 485 464 483 464 193 464 193 468 178 491 174 507 172 515 917 538 920 530 920 493 918 493" /></ns0:Shape>
+	    <ns0:String CONTENT="Chriſtum ipſum nobis ad imitandum proponamus." HPOS="172" VPOS="464" WIDTH="748" HEIGHT="74" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_2414bf2b" TAGREFS="LT210" BASELINE="170 554 627 574 940 575" HPOS="168" VPOS="513" WIDTH="772" HEIGHT="80">
+            <ns0:Shape><ns0:Polygon POINTS="170 554 168 564 936 593 940 575 940 538 170 513 170 554" /></ns0:Shape>
+	    <ns0:String CONTENT="Eo enim argumento excandeſcit Ignatius, diui Ioan¬" HPOS="168" VPOS="513" WIDTH="772" HEIGHT="80" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_3c09b977" TAGREFS="LT210" BASELINE="170 603 564 623 940 626" HPOS="168" VPOS="556" WIDTH="772" HEIGHT="88">
+            <ns0:Shape><ns0:Polygon POINTS="932 623 918 587 170 556 170 603 168 615 289 619 291 621 307 632 309 632 311 632 313 632 315 632 340 623 342 623 346 623 433 636 434 636 436 636 468 628 560 640 936 644 940 626 940 589 936 587 932 623" /></ns0:Shape>
+	    <ns0:String CONTENT="nis Euangeliſtæ diſcipulus, in quorundam ſuperſti¬" HPOS="168" VPOS="556" WIDTH="772" HEIGHT="88" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_af8a7194" TAGREFS="LT210" BASELINE="170 654 936 683" HPOS="168" VPOS="605" WIDTH="768" HEIGHT="90">
+            <ns0:Shape><ns0:Polygon POINTS="922 640 768 626 766 626 689 632 683 632 681 632 672 624 660 624 640 624 621 624 601 624 581 624 562 623 542 623 434 623 433 623 391 615 386 615 366 615 346 613 327 613 319 611 237 615 221 607 209 607 205 605 170 613 170 654 168 664 932 695 936 683 932 660 922 640" /></ns0:Shape>
+	    <ns0:String CONTENT="tionem, qui ſe ideo ſanctiores fore arbitrabantur," HPOS="168" VPOS="605" WIDTH="768" HEIGHT="90" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_c78f3918" TAGREFS="LT210" BASELINE="170 707 938 730" HPOS="168" VPOS="668" WIDTH="770" HEIGHT="78">
+            <ns0:Shape><ns0:Polygon POINTS="934 699 920 687 170 668 170 707 168 720 934 746 938 730 934 701 934 699" /></ns0:Shape>
+	    <ns0:String CONTENT="quia carnibus abſtinere perpetuò inſtituerant. Chri¬" HPOS="168" VPOS="668" WIDTH="770" HEIGHT="78" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_1afd98dd" TAGREFS="LT210" BASELINE="170 756 938 779" HPOS="168" VPOS="719" WIDTH="770" HEIGHT="70">
+            <ns0:Shape><ns0:Polygon POINTS="936 738 170 719 170 756 168 766 934 789 938 779 938 742 936 738" /></ns0:Shape>
+	    <ns0:String CONTENT="stus, inquit ille, comedit carnes, Petrus comedit car¬" HPOS="168" VPOS="719" WIDTH="770" HEIGHT="70" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_ae911cb5" TAGREFS="LT210" BASELINE="168 807 940 832" HPOS="166" VPOS="766" WIDTH="774" HEIGHT="78">
+            <ns0:Shape><ns0:Polygon POINTS="932 789 168 766 168 807 166 813 227 826 936 844 940 832 938 822 932 789" /></ns0:Shape>
+	    <ns0:String CONTENT="nes, &amp; quæ ſequuntur. Quur nos igitur earum eſum" HPOS="166" VPOS="766" WIDTH="774" HEIGHT="78" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_b44a3e00" TAGREFS="LT210" BASELINE="168 856 942 879" HPOS="166" VPOS="809" WIDTH="776" HEIGHT="80">
+            <ns0:Shape><ns0:Polygon POINTS="775 828 773 826 721 826 717 826 713 824 664 824 658 824 652 822 609 822 599 822 591 820 554 820 540 820 531 818 499 818 482 818 470 816 444 816 442 816 423 816 409 815 387 815 384 815 364 815 348 813 333 813 325 813 305 813 286 813 266 811 246 811 227 811 207 809 188 809 168 809 168 856 166 873 938 889 942 879 942 834 775 828 775 828" /></ns0:Shape>
+	    <ns0:String CONTENT="ſanctitatis ergo ſustollamus. Exempla enim ille de¬" HPOS="166" VPOS="809" WIDTH="776" HEIGHT="80" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_72bc3fc4" TAGREFS="LT210" BASELINE="170 907 930 932" HPOS="168" VPOS="858" WIDTH="762" HEIGHT="92">
+            <ns0:Shape><ns0:Polygon POINTS="327 862 325 862 305 867 284 860 268 860 264 860 235 865 215 858 209 858 199 858 170 863 170 907 168 914 926 950 930 932 930 885 358 871 356 869 342 862 327 862" /></ns0:Shape>
+	    <ns0:String CONTENT="dit nobis, ut quemadmodum quid ipſe fecerit, ita &amp;" HPOS="168" VPOS="858" WIDTH="762" HEIGHT="92" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_0bd27f29" TAGREFS="LT210" BASELINE="168 956 936 981" HPOS="166" VPOS="912" WIDTH="770" HEIGHT="81">
+            <ns0:Shape><ns0:Polygon POINTS="583 922 581 922 579 922 509 928 487 930 482 928 464 918 462 918 460 918 423 926 403 928 378 924 329 914 327 914 325 914 323 914 313 920 307 924 297 920 274 912 272 912 270 912 168 914 168 956 166 965 227 979 229 979 278 971 462 987 932 993 936 981 934 946 875 934 873 934 805 940 799 940 789 932 789 930 787 930 785 930 783 930 693 936 679 936 674 928 672 928 672 926 670 926 668 926 666 926 617 932 603 934 599 932 585 922 583 922" /></ns0:Shape>
+	    <ns0:String CONTENT="nos faceremus. Atque ita ſine ulla prorſus contro¬" HPOS="166" VPOS="912" WIDTH="770" HEIGHT="81" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_01af7d74" TAGREFS="LT210" BASELINE="168 1008 940 1036" HPOS="166" VPOS="963" WIDTH="774" HEIGHT="94">
+            <ns0:Shape><ns0:Polygon POINTS="168 1008 166 1018 327 1024 340 1036 342 1036 344 1036 346 1036 482 1034 493 1044 495 1044 497 1044 499 1044 717 1042 728 1052 730 1052 732 1052 734 1052 864 1048 879 1057 881 1057 883 1057 885 1057 938 1046 940 1036 940 997 852 985 850 985 848 985 846 985 836 993 830 995 817 991 777 981 775 981 773 981 713 987 697 989 691 987 668 977 666 977 664 977 662 977 632 985 623 987 458 983 450 979 427 969 425 969 423 969 366 975 344 977 327 973 280 963 278 963 168 967 168 1008" /></ns0:Shape>
+	    <ns0:String CONTENT="uerſia dicimus. Vnamquamque ipſius aſſertoris no¬" HPOS="166" VPOS="963" WIDTH="774" HEIGHT="94" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_43fd5265" TAGREFS="LT210" BASELINE="166 1063 897 1087" HPOS="164" VPOS="1016" WIDTH="733" HEIGHT="81">
+            <ns0:Shape><ns0:Polygon POINTS="166 1024 166 1063 164 1081 893 1097 897 1087 897 1046 877 1036 875 1036 873 1036 871 1036 791 1046 781 1046 760 1044 677 1034 676 1034 595 1038 562 1038 558 1036 548 1028 546 1028 544 1028 542 1028 515 1034 505 1036 501 1034 493 1026 493 1024 491 1024 489 1024 487 1024 442 1030 419 1034 411 1030 397 1020 395 1020 393 1020 391 1020 389 1020 364 1028 352 1030 335 1026 288 1016 286 1016 172 1018 166 1024" /></ns0:Shape>
+	    <ns0:String CONTENT="ſtri actionem uitæ noſtræ legem &amp; rationem eſſe." HPOS="164" VPOS="1016" WIDTH="733" HEIGHT="81" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_8b2e6dfb" TAGREFS="LT210" BASELINE="172 1114 934 1142" HPOS="170" VPOS="1071" WIDTH="764" HEIGHT="88">
+            <ns0:Shape><ns0:Polygon POINTS="172 1114 170 1126 180 1134 182 1134 184 1134 186 1134 276 1128 278 1128 297 1138 299 1138 301 1138 476 1138 536 1138 930 1159 934 1142 932 1093 826 1099 728 1087 715 1085 713 1085 705 1085 668 1093 664 1085 662 1085 662 1083 660 1083 658 1083 656 1083 648 1083 617 1091 531 1081 497 1077 495 1077 493 1077 485 1079 466 1085 172 1071 172 1114" /></ns0:Shape>
+	    <ns0:String CONTENT="Quo conſtituto Accuſatores noſtros interrogarim," HPOS="170" VPOS="1071" WIDTH="764" HEIGHT="88" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_09c6af7c" TAGREFS="LT210" BASELINE="168 1163 932 1193" HPOS="166" VPOS="1120" WIDTH="766" HEIGHT="92">
+            <ns0:Shape><ns0:Polygon POINTS="777 1138 597 1140 579 1140 574 1140 521 1128 519 1128 517 1128 485 1136 476 1128 476 1126 474 1126 472 1126 470 1126 434 1134 425 1126 425 1124 423 1124 421 1124 419 1124 374 1132 372 1132 368 1132 321 1120 319 1120 317 1120 182 1124 168 1155 168 1163 166 1175 928 1212 932 1193 932 1153 779 1138 777 1138" /></ns0:Shape>
+	    <ns0:String CONTENT="nunquid ullum Chriſti ipſius præceptum, dictumúe," HPOS="166" VPOS="1120" WIDTH="766" HEIGHT="92" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_0681c20f" TAGREFS="LT210" BASELINE="168 1212 936 1244" HPOS="166" VPOS="1173" WIDTH="770" HEIGHT="80">
+            <ns0:Shape><ns0:Polygon POINTS="168 1199 168 1212 166 1224 932 1253 936 1244 936 1206 889 1195 887 1195 848 1202 846 1202 844 1202 834 1193 832 1193 830 1193 828 1193 826 1193 803 1200 797 1193 795 1193 795 1191 793 1191 791 1191 789 1191 752 1199 750 1199 744 1191 742 1191 742 1189 740 1189 738 1189 736 1189 664 1195 662 1195 658 1187 656 1187 656 1185 654 1185 652 1185 650 1185 423 1185 411 1185 409 1185 366 1173 364 1173 362 1173 180 1175 168 1199" /></ns0:Shape>
+	    <ns0:String CONTENT="aut exemplum habeant, quo barbam ille uiros abra¬" HPOS="166" VPOS="1173" WIDTH="770" HEIGHT="80" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_1149aef5" TAGREFS="LT210" BASELINE="170 1261 889 1293" HPOS="168" VPOS="1214" WIDTH="721" HEIGHT="88">
+            <ns0:Shape><ns0:Polygon POINTS="666 1234 664 1234 611 1240 578 1242 570 1238 560 1230 558 1230 556 1230 554 1230 552 1230 550 1230 542 1236 538 1240 519 1236 482 1228 480 1228 478 1228 464 1234 460 1236 456 1234 444 1224 442 1224 440 1224 438 1224 378 1230 360 1232 348 1230 303 1218 301 1218 299 1218 244 1226 241 1226 239 1226 211 1214 209 1214 207 1214 170 1222 170 1261 168 1271 885 1302 889 1293 889 1249 713 1249 693 1242 668 1234 666 1234" /></ns0:Shape>
+	    <ns0:String CONTENT="dere iuſſerit, uel indicarit, uel ſaltem innuerit." HPOS="168" VPOS="1214" WIDTH="721" HEIGHT="88" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_0f26341c" TAGREFS="LT210" BASELINE="168 1314 940 1345" HPOS="166" VPOS="1271" WIDTH="774" HEIGHT="86">
+            <ns0:Shape><ns0:Polygon POINTS="740 1287 732 1289 699 1295 540 1283 362 1271 360 1271 180 1273 168 1289 168 1314 166 1326 936 1357 940 1345 938 1295 891 1302 760 1298 754 1289 752 1289 752 1287 740 1287" /></ns0:Shape>
+	    <ns0:String CONTENT="Nullum dubio procul huiuſmodi reperitur. Contrà" HPOS="166" VPOS="1271" WIDTH="774" HEIGHT="86" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_7b5b5e5d" TAGREFS="LT210" BASELINE="166 1365 938 1394" HPOS="164" VPOS="1322" WIDTH="774" HEIGHT="84">
+            <ns0:Shape><ns0:Polygon POINTS="911 1345 891 1345 887 1343 836 1351 821 1342 813 1342 799 1340 695 1345 681 1345 676 1345 636 1334 636 1334 617 1334 615 1332 585 1340 576 1342 558 1340 485 1328 480 1328 460 1328 440 1326 421 1326 413 1324 166 1322 166 1365 164 1373 268 1389 270 1389 344 1383 423 1394 934 1406 938 1394 938 1355 911 1345 911 1345" /></ns0:Shape>
+	    <ns0:String CONTENT="uero, &amp; Chriſti ipſius exemplum, qui barbam aßi¬" HPOS="164" VPOS="1322" WIDTH="774" HEIGHT="84" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_6952f207" TAGREFS="LT210" BASELINE="170 1416 938 1445" HPOS="168" VPOS="1373" WIDTH="770" HEIGHT="92">
+            <ns0:Shape><ns0:Polygon POINTS="726 1387 693 1394 681 1396 656 1392 583 1383 581 1383 564 1381 505 1387 478 1389 452 1385 405 1375 386 1375 384 1373 170 1373 170 1416 168 1426 231 1439 233 1439 235 1439 266 1432 270 1432 274 1432 323 1443 325 1443 389 1438 407 1438 934 1465 938 1445 938 1406 885 1394 883 1394 773 1398 748 1398 746 1396 736 1389 736 1387 726 1387" /></ns0:Shape>
+	    <ns0:String CONTENT="due gestaſſe fertur, &amp; Petri, &amp; Pauli, &amp; Apoſto¬" HPOS="168" VPOS="1373" WIDTH="770" HEIGHT="92" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_e7171597" TAGREFS="LT210" BASELINE="170 1465 938 1496" HPOS="168" VPOS="1430" WIDTH="770" HEIGHT="84">
+            <ns0:Shape><ns0:Polygon POINTS="170 1459 170 1465 168 1475 934 1514 938 1496 938 1453 184 1430 170 1459" /></ns0:Shape>
+	    <ns0:String CONTENT="lorum omnium mores Barbárum defenſionem con¬" HPOS="168" VPOS="1430" WIDTH="770" HEIGHT="84" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_8c52a380" TAGREFS="LT210" BASELINE="164 1518 938 1549" HPOS="162" VPOS="1467" WIDTH="776" HEIGHT="90">
+            <ns0:Shape><ns0:Polygon POINTS="164 1518 162 1535 934 1557 938 1549 938 1512 877 1496 875 1496 873 1496 838 1506 832 1506 819 1504 736 1490 734 1490 732 1490 713 1498 701 1502 676 1496 640 1487 638 1487 636 1487 634 1487 632 1487 627 1492 619 1498 507 1496 164 1467 164 1518" /></ns0:Shape>
+	    <ns0:String CONTENT="ſtituere uidentur. Sunt enim qui Christi faciem à ma£" HPOS="162" VPOS="1467" WIDTH="776" HEIGHT="90" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_061068f3" TAGREFS="LT210" BASELINE="170 1565 532 1588 938 1596" HPOS="168" VPOS="1530" WIDTH="770" HEIGHT="84">
+            <ns0:Shape><ns0:Polygon POINTS="172 1545 170 1565 168 1583 838 1614 840 1614 936 1606 938 1596 938 1557 182 1530 172 1545" /></ns0:Shape>
+	    <ns0:String CONTENT="ioribus acceptam ita deſcribant: Vt barba eum pro¬" HPOS="168" VPOS="1530" WIDTH="770" HEIGHT="84" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_6a726ee6" TAGREFS="LT210" BASELINE="170 1614 574 1641 938 1649" HPOS="168" VPOS="1569" WIDTH="770" HEIGHT="96">
+            <ns0:Shape><ns0:Polygon POINTS="601 1590 591 1590 568 1596 552 1590 542 1590 523 1588 503 1588 485 1592 466 1586 458 1584 444 1584 425 1583 415 1581 399 1584 386 1586 356 1583 268 1573 268 1573 250 1571 231 1571 223 1569 184 1577 170 1592 170 1614 168 1628 438 1651 440 1651 632 1651 687 1663 689 1665 936 1665 938 1649 936 1602 891 1610 879 1600 877 1600 875 1600 868 1600 623 1600 613 1592 611 1590 601 1590" /></ns0:Shape>
+	    <ns0:String CONTENT="mißa, flauáque fuiße aſſeuerẽt, ne aliter unquàm à" HPOS="168" VPOS="1569" WIDTH="770" HEIGHT="96" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_d5cf79a5" TAGREFS="LT210" BASELINE="172 1663 529 1690 930 1700" HPOS="170" VPOS="1618" WIDTH="760" HEIGHT="106">
+            <ns0:Shape><ns0:Polygon POINTS="785 1647 783 1647 781 1647 770 1657 728 1645 721 1645 711 1645 687 1653 668 1643 662 1643 648 1643 617 1649 574 1641 564 1641 544 1641 525 1639 505 1637 489 1635 358 1637 340 1626 329 1626 237 1630 172 1618 172 1663 170 1675 517 1706 519 1706 593 1702 668 1700 732 1712 766 1718 768 1718 770 1718 775 1714 785 1710 809 1718 819 1720 821 1720 822 1720 824 1720 826 1720 828 1718 844 1708 926 1724 930 1700 928 1653 844 1659 787 1647 785 1647" /></ns0:Shape>
+	    <ns0:String CONTENT="Græcis, à Latinis, alijs́ nationibus pingi, ſculpi́" HPOS="170" VPOS="1618" WIDTH="760" HEIGHT="106" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_69f46a49" TAGREFS="LT210" BASELINE="170 1716 540 1741 940 1751" HPOS="168" VPOS="1671" WIDTH="772" HEIGHT="94">
+            <ns0:Shape><ns0:Polygon POINTS="856 1700 791 1706 772 1708 766 1704 756 1696 754 1696 752 1696 750 1696 707 1702 681 1704 607 1702 601 1694 597 1692 581 1692 576 1692 570 1694 552 1698 182 1671 170 1682 170 1716 168 1729 248 1743 250 1743 319 1737 325 1737 327 1737 337 1747 338 1747 340 1747 936 1765 940 1751 938 1716 858 1700 856 1700" /></ns0:Shape>
+	    <ns0:String CONTENT="manifeſtum eſt. Petrum, cui ſumma uni in Chriſtianũ" HPOS="168" VPOS="1671" WIDTH="772" HEIGHT="94" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_2ff2a3c0" TAGREFS="LT210" BASELINE="172 1763 564 1794 930 1806" HPOS="170" VPOS="1720" WIDTH="760" HEIGHT="111">
+            <ns0:Shape><ns0:Polygon POINTS="920 1769 760 1751 581 1751 574 1751 572 1749 564 1743 564 1743 544 1743 538 1741 525 1747 521 1747 254 1733 252 1731 217 1720 213 1720 172 1726 172 1763 170 1782 241 1798 242 1798 307 1792 315 1792 321 1792 382 1812 384 1812 623 1825 625 1825 627 1825 628 1825 646 1816 654 1822 654 1823 656 1823 658 1823 660 1823 703 1818 723 1816 752 1822 803 1831 805 1831 807 1831 819 1825 826 1822 926 1831 930 1806 928 1792 920 1769" /></ns0:Shape>
+	    <ns0:String CONTENT="omne nomen autoritas ab ipſo Deo attributa eſt." HPOS="170" VPOS="1720" WIDTH="760" HEIGHT="111" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="741" VPOS="1817" WIDTH="105" HEIGHT="42" ID="eSc_textblock_90582416" TAGREFS="BT674">
+          <ns0:Shape><ns0:Polygon POINTS="846 1859 846 1817 741 1817 741 1859" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_1a42c0f1" TAGREFS="LT210" BASELINE="752 1847 834 1851" HPOS="750" VPOS="1802" WIDTH="84" HEIGHT="63">
+            <ns0:Shape><ns0:Polygon POINTS="752 1847 750 1865 832 1865 834 1851 834 1812 752 1802 752 1847" /></ns0:Shape>
+	    <ns0:String CONTENT="B 2" HPOS="750" VPOS="1802" WIDTH="84" HEIGHT="63" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+
+        
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>desRoches_1585_bpt6k706947_6.jpg</ns0:fileName>
+      
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT4951" LABEL="CustomZone" DESCRIPTION="block type CustomZone" /><ns0:OtherTag ID="BT4952" LABEL="DamageZone" DESCRIPTION="block type DamageZone" /><ns0:OtherTag ID="BT4953" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><ns0:OtherTag ID="BT4954" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone" /><ns0:OtherTag ID="BT4955" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><ns0:OtherTag ID="BT4956" LABEL="MainZone" DESCRIPTION="block type MainZone" /><ns0:OtherTag ID="BT4957" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><ns0:OtherTag ID="BT4958" LABEL="MusicZone" DESCRIPTION="block type MusicZone" /><ns0:OtherTag ID="BT4959" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><ns0:OtherTag ID="BT4960" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><ns0:OtherTag ID="BT4961" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><ns0:OtherTag ID="BT4962" LABEL="SealZone" DESCRIPTION="block type SealZone" /><ns0:OtherTag ID="BT4963" LABEL="StampZone" DESCRIPTION="block type StampZone" /><ns0:OtherTag ID="BT4964" LABEL="TableZone" DESCRIPTION="block type TableZone" /><ns0:OtherTag ID="BT4965" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" />
+    <ns0:OtherTag ID="LT1583" LABEL="MusicLine" DESCRIPTION="line type MusicLine" /><ns0:OtherTag ID="LT1582" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine" /><ns0:OtherTag ID="LT1581" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><ns0:OtherTag ID="LT1580" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><ns0:OtherTag ID="LT1579" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><ns0:OtherTag ID="LT1578" LABEL="CustomLine" DESCRIPTION="line type CustomLine" />
+  </ns0:Tags>
+  
+  <ns0:Layout>
+    <ns0:Page WIDTH="3456" HEIGHT="4677" PHYSICAL_IMG_NR="5" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="3456" HEIGHT="4677">
+        
+        <ns0:TextBlock HPOS="646" VPOS="919" WIDTH="1838" HEIGHT="1936" ID="block_0" TAGREFS="BT4956">
+          <ns0:Shape><ns0:Polygon POINTS="2484 919 2484 2855 658 2855 646 972" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="line_2" TAGREFS="LT1581" BASELINE="1018 1670 1847 1649" HPOS="1013" VPOS="1507" WIDTH="834" HEIGHT="181">
+            <ns0:Shape><ns0:Polygon POINTS="1018 1686 1327 1675 1348 1678 1392 1688 1395 1688 1397 1688 1434 1675 1444 1673 1455 1675 1494 1686 1496 1686 1499 1686 1501 1686 1535 1673 1543 1670 1551 1673 1585 1683 1587 1683 1590 1683 1818 1678 1821 1678 1824 1678 1847 1662 1847 1649 1842 1571 1798 1571 1722 1507 1720 1507 1717 1507 1715 1507 1530 1509 1478 1512 1475 1512 1473 1512 1473 1514 1416 1574 1382 1579 1348 1561 1346 1561 1260 1561 1257 1561 1255 1561 1252 1561 1252 1564 1229 1584 1164 1584 1096 1527 1096 1525 1093 1525 1091 1525 1088 1525 1086 1525 1083 1525 1013 1582 1018 1670" /></ns0:Shape>
+	    <ns0:String CONTENT="A ma Fille." HPOS="1013" VPOS="1507" WIDTH="834" HEIGHT="181" WC="0.995033166625283" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_5" TAGREFS="LT1579" BASELINE="1145 1987 2221 1979" HPOS="1143" VPOS="1917" WIDTH="1078" HEIGHT="104">
+            <ns0:Shape><ns0:Polygon POINTS="1145 1987 1145 2005 1421 2021 1423 2021 1426 2021 1478 2008 1598 2018 1600 2018 1603 2018 1605 2018 1605 2016 1616 2008 1626 2018 1629 2018 1631 2018 1634 2018 2115 2016 2221 1998 2221 1979 2216 1938 2177 1938 2159 1920 2159 1917 2156 1917 2154 1917 2151 1917 2148 1917 2096 1938 1855 1940 1787 1940 1764 1920 1761 1920 1759 1920 1756 1920 1753 1920 1702 1938 1546 1938 1507 1920 1504 1920 1501 1920 1499 1920 1496 1920 1473 1940 1442 1922 1439 1922 1221 1922 1218 1922 1216 1922 1213 1922 1197 1938 1169 1922 1166 1922 1164 1922 1161 1922 1158 1922 1158 1925 1143 1938 1145 1987" /></ns0:Shape>
+	    <ns0:String CONTENT="A MIE, ie ſçay que la reuerence, l’a¬" HPOS="1143" VPOS="1917" WIDTH="1078" HEIGHT="104" WC="0.978951491807636" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_6" TAGREFS="LT1579" BASELINE="1138 2070 2213 2068" HPOS="1135" VPOS="2011" WIDTH="1078" HEIGHT="83">
+            <ns0:Shape><ns0:Polygon POINTS="1138 2070 1138 2094 2211 2091 2213 2068 2208 2029 1374 2011 1372 2011 1369 2011 1366 2011 1366 2013 1351 2026 1257 2016 1255 2016 1135 2029 1138 2070" /></ns0:Shape>
+	    <ns0:String CONTENT="mour, &amp; l’honnete pudeur, ne vous" HPOS="1135" VPOS="2011" WIDTH="1078" HEIGHT="83" WC="0.987227134632342" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_7" TAGREFS="LT1579" BASELINE="1151 2159 2219 2154" HPOS="1148" VPOS="2096" WIDTH="1071" HEIGHT="96">
+            <ns0:Shape><ns0:Polygon POINTS="1151 2159 1153 2192 1184 2180 2216 2180 2219 2154 2213 2109 2026 2096 2024 2096 1148 2109 1151 2159" /></ns0:Shape>
+	    <ns0:String CONTENT="permetent étre ſans moy au papier des" HPOS="1148" VPOS="2096" WIDTH="1071" HEIGHT="96" WC="0.98221250113688" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_8" TAGREFS="LT1579" BASELINE="1153 2237 2226 2242" HPOS="1151" VPOS="2180" WIDTH="1075" HEIGHT="96">
+            <ns0:Shape><ns0:Polygon POINTS="1151 2260 1876 2276 1878 2276 2224 2263 2226 2242 2224 2198 1928 2182 1925 2182 1834 2190 1769 2195 1735 2187 1691 2180 1689 2180 1501 2185 1210 2192 1156 2180 1153 2237 1151 2260" /></ns0:Shape>
+	    <ns0:String CONTENT="Imprimeurs, &amp; qu’il vous plaît mieux" HPOS="1151" VPOS="2180" WIDTH="1075" HEIGHT="96" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_9" TAGREFS="LT1579" BASELINE="1150 2334 2226 2325" HPOS="1142" VPOS="2268" WIDTH="1081" HEIGHT="89">
+            <ns0:Shape><ns0:Polygon POINTS="1146 2330 1146 2354 2215 2357 2223 2322 2211 2268 1142 2272 1146 2330" /></ns0:Shape>
+	    <ns0:String CONTENT="que ie ſuiue mon deuoir, mon deſir, &amp;" HPOS="1142" VPOS="2268" WIDTH="1081" HEIGHT="89" WC="0.982773914530471" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_10" TAGREFS="LT1579" BASELINE="717 2408 2229 2413" HPOS="714" VPOS="2356" WIDTH="1515" HEIGHT="83">
+            <ns0:Shape><ns0:Polygon POINTS="717 2408 714 2424 1070 2439 1073 2439 2226 2434 2229 2413 2226 2356 717 2359 717 2408" /></ns0:Shape>
+	    <ns0:String CONTENT="ma coutume. Marchons doncques en cete vnion qui" HPOS="714" VPOS="2356" WIDTH="1515" HEIGHT="83" WC="0.981898959646834" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_11" TAGREFS="LT1579" BASELINE="717 2491 2232 2496" HPOS="714" VPOS="2445" WIDTH="1518" HEIGHT="83">
+            <ns0:Shape><ns0:Polygon POINTS="717 2491 714 2509 1499 2528 1501 2528 2229 2515 2232 2496 2229 2445 717 2445 717 2491" /></ns0:Shape>
+	    <ns0:String CONTENT="nous a touiours maintenues, &amp; prions la Diuine puiſ¬" HPOS="714" VPOS="2445" WIDTH="1518" HEIGHT="83" WC="0.988205313682556" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_12" TAGREFS="LT1579" BASELINE="722 2580 2234 2593" HPOS="719" VPOS="2512" WIDTH="1515" HEIGHT="114">
+            <ns0:Shape><ns0:Polygon POINTS="722 2580 719 2608 722 2611 724 2611 724 2613 727 2613 730 2613 945 2616 948 2616 951 2616 982 2603 1325 2621 1327 2621 1530 2608 2167 2626 2169 2626 2232 2611 2234 2593 2232 2543 2019 2522 2016 2522 2013 2522 2011 2522 1982 2541 1941 2520 1938 2520 1935 2520 1834 2538 1759 2520 1756 2520 1753 2520 1751 2520 1694 2535 1533 2517 1530 2517 1527 2517 1455 2535 1429 2517 1426 2517 1423 2517 1421 2517 1281 2533 1255 2515 1252 2515 1249 2515 1247 2515 1078 2533 1034 2512 1031 2512 1029 2512 787 2530 743 2512 740 2512 737 2512 735 2512 732 2512 732 2515 722 2525 722 2580" /></ns0:Shape>
+	    <ns0:String CONTENT="ſance, qu’elle vueille guider l’œuure, la penſée, &amp; la pa¬" HPOS="719" VPOS="2512" WIDTH="1515" HEIGHT="114" WC="0.990762595402992" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_13" TAGREFS="LT1579" BASELINE="724 2671 2239 2678" HPOS="722" VPOS="2608" WIDTH="1517" HEIGHT="104">
+            <ns0:Shape><ns0:Polygon POINTS="724 2671 722 2691 1229 2710 1231 2710 1702 2699 1730 2712 1733 2712 1735 2712 2237 2699 2239 2678 2239 2632 2200 2613 2198 2613 2195 2613 2193 2613 2159 2629 2083 2613 2081 2613 1920 2629 1915 2629 1883 2613 1881 2613 1777 2613 1774 2613 1772 2613 1769 2613 1759 2624 1743 2611 1740 2611 1738 2611 1735 2611 1733 2611 1730 2611 1704 2626 1540 2611 1538 2611 1535 2611 1483 2626 1481 2626 1153 2626 1138 2611 1138 2608 1135 2608 1132 2608 1130 2608 1127 2608 1086 2624 1086 2626 914 2626 914 2624 899 2611 899 2608 896 2608 893 2608 891 2608 888 2608 852 2624 849 2624 818 2608 815 2608 813 2608 724 2621 724 2671" /></ns0:Shape>
+	    <ns0:String CONTENT="role de nous deux, nous preſeruant (s’il luy plaît) de" HPOS="722" VPOS="2608" WIDTH="1517" HEIGHT="104" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_14" TAGREFS="LT1579" BASELINE="727 2759 2242 2769" HPOS="724" VPOS="2697" WIDTH="1518" HEIGHT="96">
+            <ns0:Shape><ns0:Polygon POINTS="727 2759 724 2782 2237 2793 2242 2769 2242 2723 2206 2704 2203 2704 2200 2704 2198 2704 2154 2723 2063 2704 2060 2704 2058 2704 1998 2723 1995 2723 1993 2723 1813 2702 1811 2702 1735 2715 1683 2702 1681 2702 1678 2702 1676 2702 1673 2702 1673 2704 1655 2720 1600 2702 1598 2702 1595 2702 1499 2720 1491 2720 1488 2720 1442 2699 1439 2699 1436 2699 1434 2699 1397 2717 1351 2699 1348 2699 1346 2699 1343 2699 1304 2717 1239 2717 1174 2717 1158 2702 1158 2699 1156 2699 1153 2699 1151 2699 1049 2715 1023 2697 1021 2697 1018 2697 1016 2697 938 2715 932 2715 727 2715 727 2759" /></ns0:Shape>
+	    <ns0:String CONTENT="toutes calomnies, &amp; du venin de l’ingrate dent de" HPOS="724" VPOS="2697" WIDTH="1518" HEIGHT="96" WC="0.9763735325969" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="line_15" TAGREFS="LT1579" BASELINE="730 2847 966 2842" HPOS="727" VPOS="2793" WIDTH="239" HEIGHT="75">
+            <ns0:Shape><ns0:Polygon POINTS="935 2793 909 2793 883 2793 857 2793 831 2793 805 2793 779 2793 753 2793 727 2793 730 2847 730 2868 964 2865 966 2842 964 2798 943 2793 935 2793" /></ns0:Shape>
+	    <ns0:String CONTENT="l'Enuie." HPOS="727" VPOS="2793" WIDTH="239" HEIGHT="75" WC="0.951302766799927" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="679" VPOS="1006" WIDTH="1632" HEIGHT="368" ID="eSc_textblock_e756b6a1" TAGREFS="BT4953">
+          <ns0:Shape><ns0:Polygon POINTS="679 1006 679 1374 2311 1374 2311 1006" /></ns0:Shape>
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="699" VPOS="1935" WIDTH="436" HEIGHT="428" ID="eSc_textblock_bb446018" TAGREFS="BT4955">
+          <ns0:Shape><ns0:Polygon POINTS="699 1935 699 2363 1135 2363 1135 1935" /></ns0:Shape>
+          
+        </ns0:TextBlock>
+        
+
+        
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>Apologia_1534_57_1757c_default.jpg</ns0:fileName>
+      
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><ns0:OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone" /><ns0:OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><ns0:OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><ns0:OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><ns0:OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><ns0:OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><ns0:OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><ns0:OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone" />
+    <ns0:OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><ns0:OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><ns0:OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine" /><ns0:OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><ns0:OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine" />
+  </ns0:Tags>
+  
+  <ns0:Layout>
+    <ns0:Page WIDTH="1545" HEIGHT="2351" PHYSICAL_IMG_NR="53" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1545" HEIGHT="2351">
+        
+        <ns0:TextBlock HPOS="620" VPOS="493" WIDTH="789" HEIGHT="1033" ID="eSc_textblock_a8b9df02" TAGREFS="BT651">
+          <ns0:Shape><ns0:Polygon POINTS="1215 562 1197 601 1394 611 1409 1291 1378 1369 1254 1439 1205 1518 862 1526 815 1494 805 1447 666 1392 627 1330 621 740 620 623 728 623 839 609 813 570 721 562 737 493 1276 493 1284 546" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_05efbd06" TAGREFS="LT213" BASELINE="721 542 1276 528" HPOS="719" VPOS="493" WIDTH="557" HEIGHT="57">
+            <ns0:Shape><ns0:Polygon POINTS="1229 493 1209 493 1190 493 1170 493 1150 493 1131 493 1111 493 1092 493 1072 493 1052 493 1033 493 1013 493 994 493 974 493 954 493 935 493 915 493 896 493 876 493 856 493 837 493 817 493 805 493 719 493 721 542 721 550 1276 538 1276 528 1266 493 1248 493" /></ns0:Shape>
+	    <ns0:String CONTENT="IO. SAPIDVS MATERNO" HPOS="719" VPOS="493" WIDTH="557" HEIGHT="57" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_75fd47c8" TAGREFS="LT213" BASELINE="843 583 1158 577" HPOS="841" VPOS="534" WIDTH="317" HEIGHT="69">
+            <ns0:Shape><ns0:Polygon POINTS="1017 536 997 536 978 536 958 536 939 538 919 538 841 544 843 583 843 591 939 603 941 603 1074 589 1131 599 1133 599 1135 599 1158 585 1158 577 1154 540 1046 534 1037 536" /></ns0:Shape>
+	    <ns0:String CONTENT="Hatteno ſuo S. D." HPOS="841" VPOS="534" WIDTH="317" HEIGHT="69" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_1df54763" TAGREFS="LT211" BASELINE="632 723 718 724" HPOS="631" VPOS="623" WIDTH="86" HEIGHT="119">
+            <ns0:Shape><ns0:Polygon POINTS="690 623 670 623 650 623 631 623 631 722 631 742 717 742 717 722 715 623 709 623" /></ns0:Shape>
+	    <ns0:String CONTENT="H" HPOS="631" VPOS="623" WIDTH="86" HEIGHT="119" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_b7ce276d" TAGREFS="LT210" BASELINE="713 664 1384 650" HPOS="711" VPOS="605" WIDTH="673" HEIGHT="72">
+            <ns0:Shape><ns0:Polygon POINTS="1358 609 1339 607 1319 607 1299 605 1280 605 1272 607 1266 609 811 609 809 611 790 613 770 615 750 619 731 621 711 623 713 664 713 677 1384 658 1384 650 1380 609 1378 609" /></ns0:Shape>
+	    <ns0:String CONTENT="abe tibi tandẽ, mi suauißime Hattene, Barbã," HPOS="711" VPOS="605" WIDTH="673" HEIGHT="72" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_26a0eca2" TAGREFS="LT210" BASELINE="729 711 797 709 1388 697" HPOS="727" VPOS="652" WIDTH="659" HEIGHT="74">
+            <ns0:Shape><ns0:Polygon POINTS="727 683 727 709 727 726 1386 707 1386 695 1380 652 739 666 727 683" /></ns0:Shape>
+	    <ns0:String CONTENT="ſeu potius nugas meras, importunitate precũ" HPOS="727" VPOS="652" WIDTH="659" HEIGHT="74" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_b5c65cf8" TAGREFS="LT210" BASELINE="623 764 1392 750" HPOS="621" VPOS="701" WIDTH="771" HEIGHT="78">
+            <ns0:Shape><ns0:Polygon POINTS="719 722 699 728 680 728 660 730 641 730 639 722 621 722 623 764 623 779 1390 758 1392 750 1384 701 1350 711 1225 705 1199 705 1197 705 1196 705 1190 707 1164 715 1117 709 1099 707 1097 707 1084 709 1050 717 1013 711 988 709 986 709 723 719 719 722" /></ns0:Shape>
+	    <ns0:String CONTENT="tuarum à me impetratas: quas octauo abhinc, ut opi£" HPOS="621" VPOS="701" WIDTH="771" HEIGHT="78" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_59c90899" TAGREFS="LT210" BASELINE="619 815 1388 799" HPOS="617" VPOS="756" WIDTH="771" HEIGHT="68">
+            <ns0:Shape><ns0:Polygon POINTS="1048 758 1029 758 1009 758 1007 758 950 767 943 767 939 767 919 760 911 760 903 760 894 767 890 771 799 771 790 771 733 762 725 762 709 773 707 773 701 773 650 764 648 764 647 764 617 771 619 815 619 824 1388 809 1388 799 1384 758 1064 756 1048 758" /></ns0:Shape>
+	    <ns0:String CONTENT="nor, anno, quum adhuc Seleſtadij in patria mea eſ¬" HPOS="617" VPOS="756" WIDTH="771" HEIGHT="68" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_7a3da821" TAGREFS="LT210" BASELINE="621 867 1388 848" HPOS="619" VPOS="801" WIDTH="769" HEIGHT="82">
+            <ns0:Shape><ns0:Polygon POINTS="621 867 621 883 1388 863 1388 848 1382 801 619 820 621 867" /></ns0:Shape>
+	    <ns0:String CONTENT="ſem, ad Paulum Volſium mihi longo tempore mul£" HPOS="619" VPOS="801" WIDTH="769" HEIGHT="82" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_4ee7d19d" TAGREFS="LT210" BASELINE="621 916 1394 899" HPOS="619" VPOS="860" WIDTH="775" HEIGHT="64">
+            <ns0:Shape><ns0:Polygon POINTS="972 860 952 860 933 860 913 862 894 862 874 862 864 862 854 871 852 871 848 871 801 863 796 863 776 863 756 865 745 865 619 875 621 916 621 924 1394 914 1394 899 1390 860 992 860 972 860" /></ns0:Shape>
+	    <ns0:String CONTENT="tis nominibus charißimum, hic Argentorati tum" HPOS="619" VPOS="860" WIDTH="775" HEIGHT="64" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_905bb33b" TAGREFS="LT210" BASELINE="625 967 1368 948" HPOS="623" VPOS="901" WIDTH="745" HEIGHT="76">
+            <ns0:Shape><ns0:Polygon POINTS="1290 903 1278 903 1266 911 1137 905 1133 907 1113 907 1094 907 1090 907 1080 914 1039 907 1035 909 1019 909 994 918 968 909 956 911 948 911 870 920 852 912 839 912 821 912 623 928 625 967 625 977 1366 959 1368 948 1364 911 1305 901 1290 903" /></ns0:Shape>
+	    <ns0:String CONTENT="agentem, effuſas magis quàm ſcriptas tranſmiſi." HPOS="623" VPOS="901" WIDTH="745" HEIGHT="76" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_8ee3fa00" TAGREFS="LT210" BASELINE="641 1014 1397 1001" HPOS="639" VPOS="965" WIDTH="758" HEIGHT="57">
+            <ns0:Shape><ns0:Polygon POINTS="747 965 745 965 639 977 641 1014 641 1022 1397 1010 1397 1001 1394 965 756 965 747 965" /></ns0:Shape>
+	    <ns0:String CONTENT="Emendaui quædam, pauca expunxi, &amp; nonnulla" HPOS="639" VPOS="965" WIDTH="758" HEIGHT="57" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_93081a32" TAGREFS="LT210" BASELINE="625 1065 1395 1048" HPOS="623" VPOS="1007" WIDTH="772" HEIGHT="70">
+            <ns0:Shape><ns0:Polygon POINTS="1054 1008 1043 1008 1027 1016 715 1014 713 1014 623 1026 625 1065 625 1077 1395 1055 1395 1048 1392 1010 1070 1007 1054 1008" /></ns0:Shape>
+	    <ns0:String CONTENT="adieci, quod ideo feci, ne tu tibi ex alienis ineptijs ma£" HPOS="623" VPOS="1007" WIDTH="772" HEIGHT="70" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_bee97f8c" TAGREFS="LT210" BASELINE="625 1114 1397 1101" HPOS="623" VPOS="1052" WIDTH="774" HEIGHT="72">
+            <ns0:Shape><ns0:Polygon POINTS="1096 1055 1046 1055 1035 1057 1015 1057 996 1057 976 1057 956 1059 952 1059 943 1067 941 1071 623 1071 625 1114 625 1124 1397 1108 1397 1101 1394 1063 1333 1052 1331 1052 1329 1052 1282 1063 1280 1063 1270 1063 1097 1055 1096 1055" /></ns0:Shape>
+	    <ns0:String CONTENT="lum parares: nam quod ad me attinet, ego utrobique" HPOS="623" VPOS="1052" WIDTH="774" HEIGHT="72" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_16c54a0f" TAGREFS="LT210" BASELINE="627 1167 1399 1153" HPOS="625" VPOS="1106" WIDTH="774" HEIGHT="75">
+            <ns0:Shape><ns0:Polygon POINTS="1056 1108 1052 1108 1003 1118 784 1112 782 1112 780 1112 731 1124 639 1114 637 1114 635 1114 633 1114 633 1116 625 1122 627 1167 627 1181 1399 1165 1399 1153 1394 1114 1121 1116 1068 1106 1056 1108" /></ns0:Shape>
+	    <ns0:String CONTENT="ſecurus, nihil mihi hinc nec ſpero, nec metuo, non" HPOS="625" VPOS="1106" WIDTH="774" HEIGHT="75" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_e7d0d900" TAGREFS="LT210" BASELINE="627 1218 1395 1200" HPOS="625" VPOS="1155" WIDTH="770" HEIGHT="69">
+            <ns0:Shape><ns0:Polygon POINTS="1350 1155 1331 1155 1303 1163 1274 1155 1272 1157 1252 1157 1233 1157 1213 1157 1203 1157 1050 1169 982 1161 978 1161 958 1161 939 1171 892 1163 880 1163 872 1163 860 1173 652 1167 650 1167 648 1167 625 1177 627 1218 627 1224 1395 1208 1395 1200 1394 1163 1364 1155 1350 1155" /></ns0:Shape>
+	    <ns0:String CONTENT="quidem compendium laudis, neque item famæ di¬" HPOS="625" VPOS="1155" WIDTH="770" HEIGHT="69" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_2969fa1e" TAGREFS="LT210" BASELINE="629 1269 1403 1251" HPOS="627" VPOS="1208" WIDTH="776" HEIGHT="77">
+            <ns0:Shape><ns0:Polygon POINTS="1052 1208 1052 1210 1043 1218 901 1212 884 1212 796 1224 719 1216 705 1218 697 1218 627 1228 629 1269 629 1285 1403 1261 1403 1251 1399 1212 1058 1208 1052 1208" /></ns0:Shape>
+	    <ns0:String CONTENT="ſpendium: totum tuum erit quicqud de hoc carmi¬" HPOS="627" VPOS="1208" WIDTH="776" HEIGHT="77" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_5c3c3cf2" TAGREFS="LT210" BASELINE="627 1318 1397 1306" HPOS="627" VPOS="1255" WIDTH="770" HEIGHT="71">
+            <ns0:Shape><ns0:Polygon POINTS="1264 1255 1133 1269 1127 1269 1125 1269 1031 1261 1017 1261 999 1261 990 1271 988 1271 986 1271 901 1263 899 1263 880 1265 870 1265 862 1273 860 1273 858 1273 799 1265 782 1267 770 1267 752 1275 748 1275 745 1275 711 1267 703 1269 684 1269 672 1269 639 1273 627 1291 627 1318 627 1326 1397 1316 1397 1306 1394 1267 1266 1255 1264 1255" /></ns0:Shape>
+	    <ns0:String CONTENT="ne ab eruditis lectoribus ſtatuetur: neque id iniuria," HPOS="627" VPOS="1255" WIDTH="770" HEIGHT="71" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_6c31b1cb" TAGREFS="LT210" BASELINE="664 1369 1366 1357" HPOS="662" VPOS="1308" WIDTH="704" HEIGHT="77">
+            <ns0:Shape><ns0:Polygon POINTS="1329 1308 1323 1308 1313 1316 1243 1310 1231 1310 1211 1310 1201 1318 1146 1310 1133 1312 1117 1312 1097 1320 958 1314 956 1314 937 1314 917 1314 903 1314 890 1324 696 1318 694 1318 692 1318 662 1328 664 1369 664 1385 1039 1373 1058 1375 1129 1381 1131 1381 1133 1381 1174 1371 1354 1377 1356 1377 1358 1377 1360 1377 1360 1375 1362 1375 1366 1369 1366 1357 1364 1318 1339 1308 1329 1308" /></ns0:Shape>
+	    <ns0:String CONTENT="quum iam tuum ſit &amp; meum eſſe planè deſierit." HPOS="662" VPOS="1308" WIDTH="704" HEIGHT="77" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_ea90b795" TAGREFS="LT210" BASELINE="737 1420 1307 1406" HPOS="737" VPOS="1359" WIDTH="570" HEIGHT="75">
+            <ns0:Shape><ns0:Polygon POINTS="1303 1404 1286 1365 1260 1359 1245 1361 1225 1361 1217 1361 1143 1371 1139 1373 1062 1373 1013 1373 994 1365 990 1365 970 1365 958 1365 748 1379 737 1408 737 1420 737 1434 1307 1420 1307 1406 1305 1402 1303 1404" /></ns0:Shape>
+	    <ns0:String CONTENT="Vale noſtri, ut ſoles, memor. Poſtridie" HPOS="737" VPOS="1359" WIDTH="570" HEIGHT="75" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_5779e388" TAGREFS="LT210" BASELINE="817 1467 1231 1455" HPOS="815" VPOS="1418" WIDTH="416" HEIGHT="61">
+            <ns0:Shape><ns0:Polygon POINTS="882 1418 825 1420 823 1420 821 1420 821 1422 819 1422 815 1426 817 1467 817 1479 1231 1465 1231 1455 1227 1422 884 1418 882 1418" /></ns0:Shape>
+	    <ns0:String CONTENT="Calendas Martij. Anno." HPOS="815" VPOS="1418" WIDTH="416" HEIGHT="61" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_4821dbb0" TAGREFS="LT210" BASELINE="860 1514 1192 1508" HPOS="858" VPOS="1463" WIDTH="334" HEIGHT="69">
+            <ns0:Shape><ns0:Polygon POINTS="860 1514 860 1532 1190 1518 1192 1508 1186 1463 858 1473 860 1514" /></ns0:Shape>
+	    <ns0:String CONTENT="M. D. XXXIIII." HPOS="858" VPOS="1463" WIDTH="334" HEIGHT="69" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="619.0" VPOS="1559.0" WIDTH="798.0" HEIGHT="319.0" ID="eSc_textblock_4fbbc3c2" TAGREFS="BT651">
+          <ns0:Shape><ns0:Polygon POINTS="1409 1614 1417 1816 1192 1831 1103 1878 627 1878 619 1622 805 1606 823 1567 917 1559 1143 1559 1223 1606" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_56da49ff" TAGREFS="LT213" BASELINE="821 1610 1182 1604" HPOS="819" VPOS="1559" WIDTH="363" HEIGHT="67">
+            <ns0:Shape><ns0:Polygon POINTS="1152 1567 1137 1559 1121 1559 1113 1559 1094 1559 1074 1559 1054 1559 1035 1559 1023 1565 980 1559 976 1559 956 1559 937 1559 923 1559 913 1567 825 1567 819 1571 821 1610 821 1626 1180 1612 1182 1604 1174 1577 1172 1577" /></ns0:Shape>
+	    <ns0:String CONTENT="Errata in Carminibus." HPOS="819" VPOS="1559" WIDTH="363" HEIGHT="67" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_61a5ec9c" TAGREFS="LT210" BASELINE="621 1667 1403 1651" HPOS="619" VPOS="1606" WIDTH="784" HEIGHT="74">
+            <ns0:Shape><ns0:Polygon POINTS="1345 1610 1325 1610 1305 1608 1286 1608 1276 1606 1201 1616 1141 1606 1139 1606 1137 1606 1103 1618 988 1608 986 1608 984 1608 982 1608 982 1610 972 1618 917 1610 915 1610 913 1610 888 1624 786 1624 717 1612 711 1612 680 1624 652 1618 639 1620 619 1620 619 1620 621 1667 621 1680 1403 1657 1403 1651 1399 1614 1354 1614 1350 1610 1345 1610" /></ns0:Shape>
+	    <ns0:String CONTENT="D 4.fa.b.uer.5.Seu.D 6.fa.a.uer.4.lis.&amp;11.ſit.D.7." HPOS="619" VPOS="1606" WIDTH="784" HEIGHT="74" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_aeddcb8e" TAGREFS="LT210" BASELINE="623 1716 1407 1702" HPOS="621" VPOS="1655" WIDTH="786" HEIGHT="71">
+            <ns0:Shape><ns0:Polygon POINTS="1190 1657 1174 1657 1158 1669 1137 1659 1135 1659 1133 1659 1131 1659 1101 1669 1086 1659 1074 1659 1072 1659 1062 1671 1054 1671 913 1661 905 1661 896 1671 864 1663 856 1663 848 1663 835 1675 748 1665 739 1665 723 1665 709 1679 621 1679 623 1716 623 1726 1405 1712 1407 1702 1403 1665 1199 1655 1190 1657" /></ns0:Shape>
+	    <ns0:String CONTENT="uer.7.ſublata. D 8. fa.a.uer.13.leuore.E fa.b.uer.3.os" HPOS="621" VPOS="1655" WIDTH="786" HEIGHT="71" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_ae052a30" TAGREFS="LT210" BASELINE="621 1767 1411 1753" HPOS="619" VPOS="1708" WIDTH="792" HEIGHT="68">
+            <ns0:Shape><ns0:Polygon POINTS="1070 1710 1062 1710 1050 1716 1039 1722 1025 1716 1013 1710 1011 1710 1009 1710 956 1716 892 1724 862 1716 847 1712 835 1714 833 1714 831 1716 819 1726 774 1716 766 1716 764 1716 762 1716 758 1716 729 1727 711 1716 709 1716 707 1716 705 1716 703 1716 699 1716 676 1726 619 1718 621 1767 621 1776 1411 1761 1411 1753 1407 1716 1086 1708 1070 1710" /></ns0:Shape>
+	    <ns0:String CONTENT="inueſte &amp; is.allia.uer.20.tondetur.F.fa.b.uer.19.au¬" HPOS="619" VPOS="1708" WIDTH="792" HEIGHT="68" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_052cefaf" TAGREFS="LT210" BASELINE="621 1820 1411 1804" HPOS="619" VPOS="1755" WIDTH="792" HEIGHT="84">
+            <ns0:Shape><ns0:Polygon POINTS="1335 1755 1205 1769 1023 1761 1021 1761 1019 1761 996 1773 948 1763 946 1763 872 1775 847 1765 845 1765 843 1765 627 1780 619 1796 621 1820 621 1839 758 1827 943 1831 1003 1831 1005 1831 1025 1827 1058 1822 1084 1825 1111 1831 1113 1831 1409 1814 1411 1804 1407 1767 1337 1755 1335 1755" /></ns0:Shape>
+	    <ns0:String CONTENT="res́ F fa.a.uer.14arci. &amp; ibid.uer.9næ.E3.fa.uer." HPOS="619" VPOS="1755" WIDTH="792" HEIGHT="84" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_b171d349" TAGREFS="LT210" BASELINE="625 1869 1117 1863" HPOS="623" VPOS="1814" WIDTH="494" HEIGHT="76">
+            <ns0:Shape><ns0:Polygon POINTS="833 1816 831 1816 829 1816 827 1816 827 1818 817 1825 719 1818 713 1818 713 1820 703 1829 623 1829 625 1869 625 1880 645 1890 647 1890 648 1890 650 1890 676 1880 747 1890 748 1890 839 1878 848 1878 854 1878 890 1888 892 1888 894 1888 896 1888 929 1878 935 1878 1115 1878 1117 1863 1113 1825 1027 1814 1025 1814 868 1825 835 1816 833 1816" /></ns0:Shape>
+	    <ns0:String CONTENT=".25.urbe.E.7.fa a.uer.4.audiret." HPOS="623" VPOS="1814" WIDTH="494" HEIGHT="76" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="604" VPOS="622" WIDTH="123" HEIGHT="109" ID="eSc_textblock_f8209e9f" TAGREFS="BT650">
+          <ns0:Shape><ns0:Polygon POINTS="604 622 604 731 727 731 727 622" /></ns0:Shape>
+          
+        </ns0:TextBlock>
+        
+
+        
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

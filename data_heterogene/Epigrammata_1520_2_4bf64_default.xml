@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>Epigrammata_1520_2_4bf64_default.jpg</ns0:fileName>
+      <ns0:fileIdentifier>https://api.digitale-sammlungen.de/iiif/image/v2/bsb11220144_00003/full/full/0/default.jpg</ns0:fileIdentifier>
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT780" LABEL="MainZone" DESCRIPTION="block type MainZone" /><ns0:OtherTag ID="BT781" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><ns0:OtherTag ID="BT782" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><ns0:OtherTag ID="BT783" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><ns0:OtherTag ID="BT784" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><ns0:OtherTag ID="BT785" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><ns0:OtherTag ID="BT1532" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" />
+    <ns0:OtherTag ID="LT272" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><ns0:OtherTag ID="LT273" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><ns0:OtherTag ID="LT274" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><ns0:OtherTag ID="LT573" LABEL="CustomLine" DESCRIPTION="line type CustomLine" />
+  </ns0:Tags>
+  
+  <ns0:Layout>
+    <ns0:Page WIDTH="1660" HEIGHT="2396" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1660" HEIGHT="2396">
+        
+        <ns0:TextBlock HPOS="115" VPOS="397" WIDTH="1141" HEIGHT="505" ID="eSc_textblock_d4dd947a" TAGREFS="BT780">
+          <ns0:Shape><ns0:Polygon POINTS="115 397 115 902 1256 902 1256 397" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_3bbb1018" TAGREFS="LT272" BASELINE="165 563 783 553 1168 557" HPOS="163" VPOS="419" WIDTH="1005" HEIGHT="183">
+            <ns0:Shape><ns0:Polygon POINTS="850 419 848 419 846 419 805 437 775 429 773 429 771 429 769 429 767 429 767 431 747 447 583 423 577 423 525 445 451 443 421 427 403 427 383 427 363 427 343 429 323 429 303 429 285 429 259 453 163 453 165 563 165 589 235 602 237 602 239 602 287 591 349 575 413 591 435 597 437 597 439 597 467 591 501 585 519 593 539 600 541 600 543 600 545 600 547 600 547 599 555 593 567 583 633 583 635 583 637 583 667 569 789 587 791 587 793 587 830 569 948 567 984 587 986 587 988 587 990 587 992 587 1026 577 1048 595 1050 597 1052 597 1054 597 1056 597 1168 595 1168 557 1166 443 1130 429 1128 429 1126 429 1124 429 1076 443 1054 427 1052 427 1050 427 1048 427 1046 427 1008 439 986 419 984 419 982 419 862 419 850 419" /></ns0:Shape>
+	    <ns0:String CONTENT="EPIGRAMMA" HPOS="163" VPOS="419" WIDTH="1005" HEIGHT="183" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_1c200ce8" TAGREFS="LT272" BASELINE="265 652 1052 644" HPOS="263" VPOS="575" WIDTH="789" HEIGHT="103">
+            <ns0:Shape><ns0:Polygon POINTS="265 652 265 662 343 676 345 676 347 676 391 664 393 664 395 664 433 678 435 678 437 678 439 678 471 666 481 662 519 662 525 666 537 676 539 676 541 676 543 676 545 676 547 676 559 666 561 666 565 666 629 674 631 674 633 674 635 674 635 672 641 666 647 662 669 668 693 672 695 672 697 672 707 668 725 660 801 660 827 668 842 674 844 674 846 674 1052 670 1052 644 1046 575 263 581 265 652" /></ns0:Shape>
+	    <ns0:String CONTENT="TA IOANNIS SAPIDI." HPOS="263" VPOS="575" WIDTH="789" HEIGHT="103" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_fe307674" TAGREFS="LT272" BASELINE="377 728 956 720" HPOS="375" VPOS="654" WIDTH="581" HEIGHT="100">
+            <ns0:Shape><ns0:Polygon POINTS="377 728 379 754 433 740 483 752 493 754 495 754 509 752 555 744 593 750 607 752 609 752 611 752 619 750 667 736 737 746 739 746 813 734 840 746 842 746 844 746 846 748 846 746 848 746 852 746 876 734 888 744 892 748 894 748 896 748 898 748 956 742 956 720 952 668 840 654 838 654 836 654 813 664 807 668 799 664 783 656 781 656 779 656 741 664 717 668 703 662 687 656 685 656 683 656 681 656 679 656 671 662 661 670 625 662 593 654 591 654 375 656 377 728" /></ns0:Shape>
+	    <ns0:String CONTENT="Seleſtadij bonas literas ac" HPOS="375" VPOS="654" WIDTH="581" HEIGHT="100" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_417a5f06" TAGREFS="LT272" BASELINE="447 804 850 800" HPOS="445" VPOS="736" WIDTH="405" HEIGHT="98">
+            <ns0:Shape><ns0:Polygon POINTS="447 804 447 814 497 814 503 818 517 830 519 830 521 830 565 834 567 834 569 834 595 822 599 820 611 822 653 832 655 832 657 832 673 826 705 812 763 812 791 830 793 832 795 832 797 832 799 834 848 834 850 800 844 736 555 746 445 736 447 804" /></ns0:Shape>
+	    <ns0:String CONTENT="linguam utram" HPOS="445" VPOS="736" WIDTH="405" HEIGHT="98" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_59ef5447" TAGREFS="LT272" BASELINE="503 878 729 878" HPOS="503" VPOS="814" WIDTH="226" HEIGHT="92">
+            <ns0:Shape><ns0:Polygon POINTS="503 878 503 900 727 906 729 878 729 828 703 814 701 814 699 814 697 814 645 828 643 828 639 828 543 816 541 816 503 824 503 878" /></ns0:Shape>
+	    <ns0:String CONTENT="docentis." HPOS="503" VPOS="814" WIDTH="226" HEIGHT="92" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="233" VPOS="1799" WIDTH="1093" HEIGHT="240" ID="eSc_textblock_0b72a5be" TAGREFS="BT781">
+          <ns0:Shape><ns0:Polygon POINTS="233 1799 233 2039 1326 2039 1326 1799" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_f1aa538e" TAGREFS="LT273" BASELINE="253 1880 944 1860" HPOS="253" VPOS="1804" WIDTH="691" HEIGHT="108">
+            <ns0:Shape><ns0:Polygon POINTS="890 1804 874 1804 866 1812 862 1816 711 1818 707 1816 673 1804 669 1804 661 1804 645 1818 645 1820 643 1818 605 1804 603 1804 601 1804 599 1804 597 1804 597 1806 595 1806 585 1820 505 1822 489 1810 489 1808 487 1808 485 1808 483 1808 389 1810 387 1810 339 1828 337 1830 261 1830 253 1858 253 1880 253 1906 345 1896 363 1904 381 1912 383 1912 385 1912 387 1912 407 1902 423 1894 441 1900 449 1902 451 1902 453 1902 455 1902 463 1900 485 1892 505 1898 547 1908 549 1908 551 1908 553 1908 589 1896 605 1904 607 1904 609 1904 611 1904 613 1904 631 1892 637 1888 647 1890 715 1910 717 1910 719 1910 866 1906 868 1906 944 1876 944 1860 942 1810 920 1804 910 1804" /></ns0:Shape>
+	    <ns0:String CONTENT="Dñ Chuonrado Peutingero" HPOS="253" VPOS="1804" WIDTH="691" HEIGHT="108" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_eae77c8a" TAGREFS="LT273" BASELINE="918 1994 1236 1982" HPOS="914" VPOS="1904" WIDTH="322" HEIGHT="134">
+            <ns0:Shape><ns0:Polygon POINTS="918 2020 1236 2038 1236 1982 1230 1904 1194 1904 1192 1904 1190 1904 1188 1904 1152 1928 1142 1920 1140 1920 1138 1920 1136 1920 1134 1920 1104 1932 1092 1920 1092 1918 1090 1918 1088 1918 1086 1918 1084 1918 1016 1936 914 1916 918 1994" /></ns0:Shape>
+	    <ns0:String CONTENT="Ia. Spiegel" HPOS="914" VPOS="1904" WIDTH="322" HEIGHT="134" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="61" VPOS="31" WIDTH="1598" HEIGHT="2281" ID="eSc_textblock_47006a0f" TAGREFS="BT1532">
+          <ns0:Shape><ns0:Polygon POINTS="61 31 61 2312 1659 2312 1659 31" /></ns0:Shape>
+          
+        </ns0:TextBlock>
+        
+
+        
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

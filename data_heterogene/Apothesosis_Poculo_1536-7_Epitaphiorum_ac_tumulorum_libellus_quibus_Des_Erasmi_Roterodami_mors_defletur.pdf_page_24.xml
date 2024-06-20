@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>Apothesosis_Poculo_1536-7_Epitaphiorum_ac_tumulorum_libellus_quibus_Des_Erasmi_Roterodami_mors_defletur.pdf_page_24.jpg</ns0:fileName>
+      
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT656" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><ns0:OtherTag ID="BT657" LABEL="MainZone" DESCRIPTION="block type MainZone" /><ns0:OtherTag ID="BT658" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><ns0:OtherTag ID="BT659" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><ns0:OtherTag ID="BT693" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" />
+    <ns0:OtherTag ID="LT214" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><ns0:OtherTag ID="LT215" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><ns0:OtherTag ID="LT216" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><ns0:OtherTag ID="LT488" LABEL="CustomLine" DESCRIPTION="line type CustomLine" />
+  </ns0:Tags>
+  
+  <ns0:Layout>
+    <ns0:Page WIDTH="1748" HEIGHT="2464" PHYSICAL_IMG_NR="11" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1748" HEIGHT="2464">
+        
+        <ns0:TextBlock HPOS="65" VPOS="274" WIDTH="1140" HEIGHT="1736" ID="eSc_textblock_68ff25b7" TAGREFS="BT657">
+          <ns0:Shape><ns0:Polygon POINTS="877 279 912 328 1205 344 1189 400 1084 408 1024 476 1057 613 1000 689 1016 901 951 1024 1024 1117 1008 1443 1074 1461 1090 1517 1002 1542 934 1624 961 1659 1107 1691 1090 1739 969 1755 951 1813 1057 1848 1059 1949 1055 1949 1055 1995 921 1995 921 1994 887 1994 887 1995 880 1995 880 2003 887 2003 887 2009 883 2009 883 2010 778 2002 295 2010 90 1977 65 303 82 279 448 279 448 284 768 284 768 274" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_e8a128ee" TAGREFS="LT488" BASELINE="71 334 872 326" HPOS="69" VPOS="273" WIDTH="803" HEIGHT="80">
+            <ns0:Shape><ns0:Polygon POINTS="850 277 829 275 809 275 796 273 439 277 439 279 419 279 398 279 386 279 84 281 69 293 71 334 71 353 870 342 872 326 866 277 850 277" /></ns0:Shape>
+	    <ns0:String CONTENT="Et ſaltem ſuprema uiro poſt fata fauete." HPOS="69" VPOS="273" WIDTH="803" HEIGHT="80" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_a8f53d74" TAGREFS="LT488" BASELINE="76 388 1189 379" HPOS="73" VPOS="326" WIDTH="1116" HEIGHT="74">
+            <ns0:Shape><ns0:Polygon POINTS="1183 342 1162 340 1142 340 1121 338 1100 338 1080 336 1059 336 1039 334 1018 332 998 332 977 330 957 330 936 328 916 328 914 326 903 338 901 338 885 338 673 328 669 330 649 330 628 330 620 330 560 340 550 340 527 340 394 332 382 332 361 332 351 332 338 340 334 342 320 340 269 332 258 334 252 334 236 340 230 344 137 344 135 340 127 334 115 334 110 334 73 340 76 388 76 398 1187 400 1189 379 1185 342 1183 342" /></ns0:Shape>
+	    <ns0:String CONTENT="Quorum equidem (melius ſi rem perpendimus ipſam)" HPOS="73" VPOS="326" WIDTH="1116" HEIGHT="74" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_4e7a7252" TAGREFS="LT488" BASELINE="76 441 1043 433" HPOS="73" VPOS="390" WIDTH="970" HEIGHT="61">
+            <ns0:Shape><ns0:Polygon POINTS="76 441 76 451 1043 447 1043 433 1039 392 73 390 76 441" /></ns0:Shape>
+	    <ns0:String CONTENT="Munere tres uice nunc unius habentur Eraſmi." HPOS="73" VPOS="390" WIDTH="970" HEIGHT="61" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_526de671" TAGREFS="LT488" BASELINE="88 492 992 488" HPOS="86" VPOS="441" WIDTH="906" HEIGHT="66">
+            <ns0:Shape><ns0:Polygon POINTS="88 492 88 507 990 507 992 488 988 445 86 441 88 492" /></ns0:Shape>
+	    <ns0:String CONTENT="Vnum terra fouet, ſedem dant aſtra ſecundo," HPOS="86" VPOS="441" WIDTH="906" HEIGHT="66" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_239cee6c" TAGREFS="LT488" BASELINE="82 546 1010 540" HPOS="80" VPOS="490" WIDTH="930" HEIGHT="74">
+            <ns0:Shape><ns0:Polygon POINTS="942 490 922 490 912 490 766 498 743 498 739 498 718 490 716 490 702 490 681 498 671 501 647 496 599 490 597 490 595 490 583 496 575 501 445 496 343 492 340 492 338 492 336 492 334 494 322 503 80 494 82 546 82 564 1008 552 1010 540 1006 501 959 490 942 490" /></ns0:Shape>
+	    <ns0:String CONTENT="Tertius excellens, hic optima quæ, magiſter" HPOS="80" VPOS="490" WIDTH="930" HEIGHT="74" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_2615eca0" TAGREFS="LT488" BASELINE="80 601 1053 597" HPOS="78" VPOS="554" WIDTH="975" HEIGHT="57">
+            <ns0:Shape><ns0:Polygon POINTS="1043 576 1037 554 78 554 80 601 80 611 1053 607 1053 597 1051 593 1043 576" /></ns0:Shape>
+	    <ns0:String CONTENT="Quid deceat, quid dedeceat, quid proſit &amp; obſit," HPOS="78" VPOS="554" WIDTH="975" HEIGHT="57" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_b755fdd3" TAGREFS="LT488" BASELINE="78 655 1012 646" HPOS="76" VPOS="603" WIDTH="936" HEIGHT="62">
+            <ns0:Shape><ns0:Polygon POINTS="78 655 78 665 1012 657 1012 646 1008 605 76 603 78 655" /></ns0:Shape>
+	    <ns0:String CONTENT="Donec erit genus humanum diſcet́, docebit." HPOS="76" VPOS="603" WIDTH="936" HEIGHT="62" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_626ba036" TAGREFS="LT488" BASELINE="80 708 963 700" HPOS="78" VPOS="655" WIDTH="885" HEIGHT="65">
+            <ns0:Shape><ns0:Polygon POINTS="80 708 80 720 961 712 963 700 957 655 78 655 80 708" /></ns0:Shape>
+	    <ns0:String CONTENT="Ille idem (non ſummopere res digna relatu" HPOS="78" VPOS="655" WIDTH="885" HEIGHT="65" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_5d2aaf18" TAGREFS="LT488" BASELINE="78 761 990 761" HPOS="78" VPOS="708" WIDTH="912" HEIGHT="72">
+            <ns0:Shape><ns0:Polygon POINTS="78 761 78 774 988 780 990 761 988 708 78 708 78 761" /></ns0:Shape>
+	    <ns0:String CONTENT="Dicendi finem mihi prætereunda petenti eſt)" HPOS="78" VPOS="708" WIDTH="912" HEIGHT="72" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_499e0049" TAGREFS="LT488" BASELINE="88 815 918 811" HPOS="86" VPOS="763" WIDTH="832" HEIGHT="62">
+            <ns0:Shape><ns0:Polygon POINTS="353 763 332 763 312 763 291 763 271 763 250 763 230 763 209 763 188 763 168 763 147 763 127 763 106 763 86 763 88 815 88 825 916 819 918 811 914 767 361 763 353 763" /></ns0:Shape>
+	    <ns0:String CONTENT="Tertius ingenio ne tantum conſulat acri," HPOS="86" VPOS="763" WIDTH="832" HEIGHT="62" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_3e011a36" TAGREFS="LT488" BASELINE="82 868 1008 864" HPOS="80" VPOS="813" WIDTH="928" HEIGHT="65">
+            <ns0:Shape><ns0:Polygon POINTS="1004 839 1004 821 634 813 614 813 593 813 573 813 552 813 532 813 511 813 490 815 470 815 449 815 429 815 408 815 388 815 386 815 80 821 82 868 82 876 1006 878 1008 864 1006 843 1004 839" /></ns0:Shape>
+	    <ns0:String CONTENT="Quo tot ſcripta dedit clariæ præluſtria turbæ," HPOS="80" VPOS="813" WIDTH="928" HEIGHT="65" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_5914b2ec" TAGREFS="LT488" BASELINE="80 921 998 915" HPOS="78" VPOS="866" WIDTH="920" HEIGHT="64">
+            <ns0:Shape><ns0:Polygon POINTS="838 866 817 866 796 866 776 866 755 866 753 866 700 874 686 876 497 876 492 874 482 868 468 868 447 868 427 868 406 868 386 868 377 868 373 874 371 878 299 878 295 874 289 868 283 868 277 868 264 874 256 876 240 874 211 868 201 868 180 868 168 868 78 872 80 921 80 930 998 926 998 915 994 874 852 866 838 866" /></ns0:Shape>
+	    <ns0:String CONTENT="Sed ſimul ut miſeris ueniant mortalibus ex ſe" HPOS="78" VPOS="866" WIDTH="920" HEIGHT="64" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_31171d43" TAGREFS="LT488" BASELINE="82 973 961 969" HPOS="80" VPOS="921" WIDTH="881" HEIGHT="68">
+            <ns0:Shape><ns0:Polygon POINTS="347 921 326 921 306 921 285 921 264 921 244 921 223 921 203 921 182 921 162 921 141 921 121 921 100 921 80 921 82 973 82 987 957 989 961 969 957 921 367 921 347 921" /></ns0:Shape>
+	    <ns0:String CONTENT="Commoda fortunæ, res quas obtruſerat illi" HPOS="80" VPOS="921" WIDTH="881" HEIGHT="68" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_6dca8612" TAGREFS="LT488" BASELINE="80 1026 850 1030" HPOS="78" VPOS="977" WIDTH="772" HEIGHT="66">
+            <ns0:Shape><ns0:Polygon POINTS="80 1026 78 1034 846 1043 850 1030 848 977 80 977 80 1026" /></ns0:Shape>
+	    <ns0:String CONTENT="Sæpius inuito pia munificentia largè," HPOS="78" VPOS="977" WIDTH="772" HEIGHT="66" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_cac422c6" TAGREFS="LT488" BASELINE="82 1082 951 1082" HPOS="82" VPOS="1026" WIDTH="869" HEIGHT="68">
+            <ns0:Shape><ns0:Polygon POINTS="595 1030 575 1030 554 1030 534 1030 513 1030 492 1030 472 1030 460 1028 458 1030 443 1038 291 1038 217 1028 205 1028 184 1028 172 1028 121 1036 90 1028 82 1028 82 1082 82 1094 951 1094 951 1082 951 1036 907 1026 905 1026 903 1026 901 1026 860 1036 856 1036 799 1036 601 1030 595 1030" /></ns0:Shape>
+	    <ns0:String CONTENT="Largius in uarios diſpenſat &amp; erogat uſus." HPOS="82" VPOS="1026" WIDTH="869" HEIGHT="68" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_f82f5dd7" TAGREFS="LT488" BASELINE="86 1131 1010 1139" HPOS="84" VPOS="1084" WIDTH="926" HEIGHT="61">
+            <ns0:Shape><ns0:Polygon POINTS="1002 1090 546 1084 538 1084 517 1084 497 1084 476 1084 456 1084 435 1084 414 1084 394 1084 373 1084 353 1084 332 1084 312 1084 291 1084 271 1084 250 1084 230 1084 209 1084 188 1084 168 1084 147 1084 127 1084 106 1084 86 1084 86 1131 84 1137 1006 1145 1010 1139 1008 1098 1002 1090" /></ns0:Shape>
+	    <ns0:String CONTENT="Nam locat, à tædis quas res anguſta moratur," HPOS="84" VPOS="1084" WIDTH="926" HEIGHT="61" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_59c01462" TAGREFS="LT488" BASELINE="84 1182 971 1190" HPOS="82" VPOS="1131" WIDTH="889" HEIGHT="70">
+            <ns0:Shape><ns0:Polygon POINTS="371 1135 351 1135 330 1135 316 1133 279 1133 269 1133 248 1133 228 1133 207 1133 186 1133 166 1133 145 1133 125 1133 104 1133 84 1131 84 1182 82 1192 967 1201 971 1190 969 1147 377 1135 371 1135" /></ns0:Shape>
+	    <ns0:String CONTENT="Maturas thalamo, ſatis ampla dote puellas," HPOS="82" VPOS="1131" WIDTH="889" HEIGHT="70" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_2ad882b7" TAGREFS="LT488" BASELINE="86 1236 1016 1242" HPOS="84" VPOS="1184" WIDTH="932" HEIGHT="68">
+            <ns0:Shape><ns0:Polygon POINTS="86 1236 84 1246 1012 1252 1016 1242 1014 1199 86 1184 86 1236" /></ns0:Shape>
+	    <ns0:String CONTENT="Pauperies caſtum ue uendat egena pudorem." HPOS="84" VPOS="1184" WIDTH="932" HEIGHT="68" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_97d9f91c" TAGREFS="LT488" BASELINE="86 1289 981 1297" HPOS="84" VPOS="1238" WIDTH="897" HEIGHT="67">
+            <ns0:Shape><ns0:Polygon POINTS="86 1289 84 1297 977 1305 981 1297 979 1252 86 1238 86 1289" /></ns0:Shape>
+	    <ns0:String CONTENT="Felicem, parili ſumptu, iuuat indole pubem," HPOS="84" VPOS="1238" WIDTH="897" HEIGHT="67" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_8933720e" TAGREFS="LT488" BASELINE="86 1342 1016 1351" HPOS="84" VPOS="1297" WIDTH="932" HEIGHT="68">
+            <ns0:Shape><ns0:Polygon POINTS="1010 1312 1008 1303 86 1297 86 1342 84 1351 121 1363 123 1363 125 1365 1014 1365 1016 1351 1014 1305 1010 1303 1010 1312" /></ns0:Shape>
+	    <ns0:String CONTENT="Spe queat ut meliore ſacris incumbere Muſis," HPOS="84" VPOS="1297" WIDTH="932" HEIGHT="68" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_f04fc02f" TAGREFS="LT488" BASELINE="86 1396 994 1402" HPOS="84" VPOS="1349" WIDTH="910" HEIGHT="71">
+            <ns0:Shape><ns0:Polygon POINTS="86 1396 84 1406 990 1420 994 1402 992 1359 86 1349 86 1396" /></ns0:Shape>
+	    <ns0:String CONTENT="Et tandem ſolida multarum indagine rerum," HPOS="84" VPOS="1349" WIDTH="910" HEIGHT="71" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_62cc55d2" TAGREFS="LT488" BASELINE="92 1451 955 1451" HPOS="92" VPOS="1402" WIDTH="863" HEIGHT="64">
+            <ns0:Shape><ns0:Polygon POINTS="92 1451 92 1466 955 1466 955 1451 955 1406 92 1402 92 1451" /></ns0:Shape>
+	    <ns0:String CONTENT="Iam manibus lotis ad publica munia ſumi." HPOS="92" VPOS="1402" WIDTH="863" HEIGHT="64" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_83626f1d" TAGREFS="LT488" BASELINE="100 1503 1076 1513" HPOS="98" VPOS="1453" WIDTH="978" HEIGHT="78">
+            <ns0:Shape><ns0:Polygon POINTS="1068 1466 316 1453 306 1453 285 1453 264 1453 244 1453 223 1453 203 1453 182 1453 162 1453 141 1453 121 1453 100 1453 100 1503 98 1511 162 1523 164 1523 238 1515 258 1513 262 1515 273 1523 275 1523 277 1523 279 1523 363 1517 404 1515 419 1519 439 1525 441 1525 443 1525 445 1525 468 1519 488 1515 1072 1531 1076 1513 1074 1476 1068 1466" /></ns0:Shape>
+	    <ns0:String CONTENT="Viuere quos ſtipe mendica grauis urget egeſtas," HPOS="98" VPOS="1453" WIDTH="978" HEIGHT="78" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_d1766ce4" TAGREFS="LT488" BASELINE="92 1558 973 1564" HPOS="90" VPOS="1500" WIDTH="883" HEIGHT="76">
+            <ns0:Shape><ns0:Polygon POINTS="564 1509 544 1509 523 1509 503 1509 484 1507 472 1507 462 1507 441 1507 421 1507 400 1507 380 1507 359 1507 338 1507 318 1507 297 1507 277 1505 256 1505 240 1505 180 1511 127 1505 112 1505 110 1503 92 1500 92 1558 90 1566 969 1576 973 1564 971 1517 571 1509 564 1509" /></ns0:Shape>
+	    <ns0:String CONTENT="Illis præbet opem uictus, &amp; ueſtibus ambit," HPOS="90" VPOS="1500" WIDTH="883" HEIGHT="76" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_87faf219" TAGREFS="LT488" BASELINE="92 1609 893 1613" HPOS="90" VPOS="1560" WIDTH="803" HEIGHT="68">
+            <ns0:Shape><ns0:Polygon POINTS="462 1562 441 1562 421 1562 400 1562 380 1560 367 1560 164 1566 121 1560 112 1560 92 1560 92 1609 90 1618 889 1628 893 1613 891 1570 495 1570 470 1562 462 1562" /></ns0:Shape>
+	    <ns0:String CONTENT="Ieiunos ne forte fames ueſana trucidet," HPOS="90" VPOS="1560" WIDTH="803" HEIGHT="68" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_e34882b5" TAGREFS="LT488" BASELINE="94 1661 914 1667" HPOS="92" VPOS="1611" WIDTH="822" HEIGHT="74">
+            <ns0:Shape><ns0:Polygon POINTS="217 1611 197 1611 176 1611 156 1611 135 1611 115 1611 94 1611 94 1661 92 1671 367 1685 369 1685 912 1677 914 1667 912 1622 230 1611 217 1611" /></ns0:Shape>
+	    <ns0:String CONTENT="Et nudos hyemis frigus glacialis adurat." HPOS="92" VPOS="1611" WIDTH="822" HEIGHT="74" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_7fc49704" TAGREFS="LT488" BASELINE="96 1716 1096 1722" HPOS="94" VPOS="1663" WIDTH="1002" HEIGHT="80">
+            <ns0:Shape><ns0:Polygon POINTS="1082 1685 1061 1681 1047 1677 299 1665 297 1665 285 1665 182 1673 96 1663 96 1716 94 1728 1092 1743 1096 1722 1092 1712 1082 1685" /></ns0:Shape>
+	    <ns0:String CONTENT="Quapropter nos cœleſtem ueneremur Eraſmum," HPOS="94" VPOS="1663" WIDTH="1002" HEIGHT="80" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_677d3a9f" TAGREFS="LT488" BASELINE="94 1767 932 1776" HPOS="92" VPOS="1716" WIDTH="840" HEIGHT="76">
+            <ns0:Shape><ns0:Polygon POINTS="546 1720 525 1720 505 1720 484 1720 464 1720 443 1720 433 1718 382 1720 139 1724 110 1716 94 1716 94 1767 92 1778 928 1792 932 1776 930 1733 548 1720 546 1720" /></ns0:Shape>
+	    <ns0:String CONTENT="Et uitam nobis ſic inſtituamus agendam," HPOS="92" VPOS="1716" WIDTH="840" HEIGHT="76" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_9738d8e7" TAGREFS="LT488" BASELINE="102 1823 893 1827" HPOS="100" VPOS="1769" WIDTH="793" HEIGHT="76">
+            <ns0:Shape><ns0:Polygon POINTS="821 1776 801 1776 794 1776 784 1780 780 1784 624 1784 618 1778 614 1774 595 1774 581 1774 556 1776 513 1780 503 1776 495 1772 492 1772 472 1772 451 1772 431 1772 410 1772 390 1772 193 1780 117 1769 102 1769 102 1823 100 1831 199 1843 201 1843 470 1835 501 1845 503 1845 505 1845 891 1835 893 1827 891 1784 838 1776 821 1776" /></ns0:Shape>
+	    <ns0:String CONTENT="Vt tandem recipi digni fiamus eôdem." HPOS="100" VPOS="1769" WIDTH="793" HEIGHT="76" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_8aabf117" TAGREFS="LT488" BASELINE="98 1876 1049 1882" HPOS="96" VPOS="1827" WIDTH="953" HEIGHT="74">
+            <ns0:Shape><ns0:Polygon POINTS="1043 1845 1022 1837 1020 1835 98 1827 98 1876 96 1887 133 1899 135 1899 137 1901 1047 1901 1049 1882 1047 1845 1043 1845" /></ns0:Shape>
+	    <ns0:String CONTENT="Quem́ fouet tellus gelidis complexa lacertis," HPOS="96" VPOS="1827" WIDTH="953" HEIGHT="74" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_d9110b82" TAGREFS="LT488" BASELINE="96 1928 981 1936" HPOS="94" VPOS="1876" WIDTH="887" HEIGHT="72">
+            <ns0:Shape><ns0:Polygon POINTS="753 1882 733 1882 723 1880 669 1887 622 1891 505 1882 468 1880 466 1880 445 1880 425 1880 421 1878 421 1880 400 1889 186 1878 184 1878 141 1887 108 1876 96 1876 96 1928 94 1940 977 1948 981 1936 979 1895 772 1882 753 1882" /></ns0:Shape>
+	    <ns0:String CONTENT="Perpetuo permittamus requieſcere ſomno," HPOS="94" VPOS="1876" WIDTH="887" HEIGHT="72" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_84fdd4fb" TAGREFS="LT488" BASELINE="106 1981 1027 1987" HPOS="101" VPOS="1930" WIDTH="923" HEIGHT="100">
+            <ns0:Shape><ns0:Polygon POINTS="928 1934 891 1944 794 1934 792 1934 690 1944 632 1932 630 1932 484 1944 482 1944 439 1932 437 1932 435 1932 433 1932 431 1932 416 1944 414 1944 398 1944 318 1942 308 1932 308 1930 306 1930 304 1930 301 1930 137 1942 101 1940 106 1975 104 1979 102 2002 201 2006 246 2024 248 2024 250 2024 380 2016 408 2026 410 2026 412 2026 414 2026 462 2012 492 2024 495 2024 497 2024 499 2024 529 2010 583 2026 585 2026 587 2026 589 2026 624 2010 706 2010 755 2028 757 2028 760 2030 807 2030 807 2028 809 2028 811 2028 831 2012 862 2024 864 2024 866 2024 868 2024 914 2012 924 2010 1020 2012 1024 1985 1022 1948 932 1934 930 1934" /></ns0:Shape>
+	    <ns0:String CONTENT="Dum poſtrema dies rediuiuos proferet artus." HPOS="101" VPOS="1930" WIDTH="923" HEIGHT="100" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="463" VPOS="213" WIDTH="247" HEIGHT="49" ID="eSc_textblock_f944875f" TAGREFS="BT659">
+          <ns0:Shape><ns0:Polygon POINTS="476 213 688 213 710 262 463 262" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_58ccfcba" TAGREFS="LT215" BASELINE="472 260 700 256" HPOS="470" VPOS="213" WIDTH="230" HEIGHT="60">
+            <ns0:Shape><ns0:Polygon POINTS="655 213 634 213 614 213 593 213 573 213 552 213 532 213 511 213 490 213 470 227 472 260 472 268 698 273 700 256 692 236 675 213" /></ns0:Shape>
+	    <ns0:String CONTENT="ERASMI" HPOS="470" VPOS="213" WIDTH="230" HEIGHT="60" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="1109" VPOS="213" WIDTH="96" HEIGHT="55" ID="eSc_textblock_0ca9d289" TAGREFS="BT656">
+          <ns0:Shape><ns0:Polygon POINTS="1133 268 1109 252 1125 213 1189 213 1205 252" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_e6791f58" TAGREFS="LT215" BASELINE="1113 254 1195 254" HPOS="1113" VPOS="213" WIDTH="82" HEIGHT="80">
+            <ns0:Shape><ns0:Polygon POINTS="1164 213 1154 213 1133 213 1113 248 1113 254 1113 293 1195 287 1195 254 1193 250 1176 215" /></ns0:Shape>
+	    <ns0:String CONTENT="107" HPOS="1113" VPOS="213" WIDTH="82" HEIGHT="80" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="921" VPOS="2003" WIDTH="301" HEIGHT="56" ID="eSc_textblock_9b211e57" TAGREFS="BT693">
+          <ns0:Shape><ns0:Polygon POINTS="1215 2003 1222 2059 924 2051 924 2009 921 2009 921 2003" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_8b10eab6" TAGREFS="LT215" BASELINE="928 2041 1216 2047" HPOS="926" VPOS="1979" WIDTH="290" HEIGHT="107">
+            <ns0:Shape><ns0:Polygon POINTS="1172 1981 1170 1981 1168 1981 1094 1979 1092 1979 1090 1979 1088 1979 1053 2004 1051 2006 1047 2004 1033 1995 1031 1995 1029 1995 1027 1995 1014 2002 1004 2006 928 1997 928 2041 926 2067 1002 2063 1022 2075 1041 2084 1043 2084 1045 2084 1092 2077 1125 2073 1133 2080 1142 2086 1144 2086 1146 2086 1148 2086 1213 2082 1216 2047 1216 2038 1201 2002" /></ns0:Shape>
+	    <ns0:String CONTENT="o 2 Ipse́" HPOS="926" VPOS="1979" WIDTH="290" HEIGHT="107" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+
+        
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

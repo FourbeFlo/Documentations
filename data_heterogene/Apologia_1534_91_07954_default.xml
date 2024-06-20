@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>Apologia_1534_91_07954_default.jpg</ns0:fileName>
+      
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><ns0:OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone" /><ns0:OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><ns0:OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><ns0:OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><ns0:OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><ns0:OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><ns0:OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><ns0:OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone" />
+    <ns0:OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><ns0:OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><ns0:OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine" /><ns0:OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><ns0:OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine" />
+  </ns0:Tags>
+  
+  <ns0:Layout>
+    <ns0:Page WIDTH="1545" HEIGHT="2351" PHYSICAL_IMG_NR="87" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1545" HEIGHT="2351">
+        
+        <ns0:TextBlock HPOS="674" VPOS="1561" WIDTH="696" HEIGHT="176" ID="eSc_textblock_ae7a96b9" TAGREFS="BT651">
+          <ns0:Shape><ns0:Polygon POINTS="721 1737 674 1690 674 1645 729 1630 811 1561 1151 1562 1362 1630 1370 1675 1294 1690 1260 1737" /></ns0:Shape>
+          
+          
+          <ns0:TextLine ID="eSc_line_52340475" TAGREFS="LT213" BASELINE="823 1596 1145 1592" HPOS="823" VPOS="1559" WIDTH="322" HEIGHT="49">
+            <ns0:Shape><ns0:Polygon POINTS="1115 1565 1096 1565 1076 1565 1056 1563 1037 1563 1017 1563 997 1563 978 1561 958 1561 939 1561 919 1561 899 1559 880 1559 860 1559 841 1559 831 1567 823 1596 823 1608 1143 1608 1145 1592 1143 1586 1135 1565" /></ns0:Shape>
+	    <ns0:String CONTENT="Maternus Hattenus." HPOS="823" VPOS="1559" WIDTH="322" HEIGHT="49" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_46a70145" TAGREFS="LT410" BASELINE="678 1682 897 1671 1356 1665" HPOS="676" VPOS="1622" WIDTH="680" HEIGHT="74">
+            <ns0:Shape><ns0:Polygon POINTS="1323 1628 1303 1626 1284 1626 1264 1626 1245 1624 1225 1624 1205 1622 1186 1622 1166 1622 1146 1622 1141 1622 1129 1628 1099 1622 1088 1622 1068 1622 1048 1624 1043 1624 1007 1630 990 1624 970 1624 962 1624 950 1631 948 1631 882 1626 872 1626 852 1626 833 1628 825 1628 762 1635 733 1628 715 1631 696 1637 676 1643 678 1682 678 1696 854 1696 856 1696 862 1694 880 1684 915 1692 927 1694 929 1694 931 1694 941 1692 972 1682 1027 1688 1058 1692 1060 1692 1062 1692 1080 1688 1101 1682 1123 1686 1148 1690 1150 1690 1152 1690 1154 1690 1162 1684 1174 1679 1205 1684 1233 1688 1235 1688 1237 1688 1252 1682 1268 1677 1354 1679 1356 1665 1352 1628 1343 1628" /></ns0:Shape>
+	    <ns0:String CONTENT="Vt fertur caluo quod turpe ſit eſſe comatum." HPOS="676" VPOS="1622" WIDTH="680" HEIGHT="74" />
+          </ns0:TextLine>
+
+          
+          
+          <ns0:TextLine ID="eSc_line_2368811d" TAGREFS="LT410" BASELINE="719 1729 1262 1716" HPOS="717" VPOS="1671" WIDTH="545" HEIGHT="94">
+            <ns0:Shape><ns0:Polygon POINTS="923 1682 752 1679 737 1680 731 1680 717 1686 719 1729 721 1759 756 1749 768 1759 774 1763 774 1765 776 1765 778 1765 780 1765 782 1765 784 1765 792 1759 799 1753 821 1759 833 1761 835 1761 837 1761 839 1761 841 1761 841 1759 843 1757 856 1745 952 1743 984 1755 992 1759 994 1759 996 1759 997 1759 1011 1755 1054 1743 1092 1755 1101 1757 1103 1757 1105 1757 1107 1757 1109 1757 1113 1755 1135 1739 1180 1753 1182 1753 1184 1753 1262 1751 1262 1716 1258 1677 1027 1671 1025 1671" /></ns0:Shape>
+	    <ns0:String CONTENT="Barbatus barba ſic ſine turpis erit." HPOS="717" VPOS="1671" WIDTH="545" HEIGHT="94" />
+          </ns0:TextLine>
+
+          
+        </ns0:TextBlock>
+        
+        <ns0:TextBlock HPOS="710" VPOS="606" WIDTH="609" HEIGHT="940" ID="eSc_textblock_2afddcde" TAGREFS="BT673">
+          <ns0:Shape><ns0:Polygon POINTS="710 606 710 1546 1319 1546 1319 606" /></ns0:Shape>
+          
+        </ns0:TextBlock>
+        
+
+        
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>
