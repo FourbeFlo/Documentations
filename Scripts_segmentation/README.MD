@@ -20,3 +20,5 @@ table of result:
 
 for now the script.py are very simple so... they work! with the requirement.
 for beginner there is a more commented version in the Notebook files.
+
+personal note: for a batch script using gpu, take the same parameter as for the OCR. (save the idee...now just have to make the script...) 
