@@ -25,5 +25,5 @@ for beginner there is a more commented version in the Notebook files.
 
 personal note: for a batch script using gpu, take the same parameter as for the OCR. (save the idee...now just have to make the script...) 
 ### Use in eScriptorium
-For using the file in eScriptorium, applie the script "change_xml_file_name.py". \n
+For using the file in eScriptorium, applie the script "change_xml_file_name.py" : \
 make the link between the image.file and the xml.file
