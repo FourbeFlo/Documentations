@@ -27,9 +27,10 @@ personal note: for a batch script using gpu, take the same parameter as for the 
 
 ### use of the script
 
-1. Prepare the data for the segmentaion with the relevant file name : prepare_data_seg.sh   
+1. Prepare the data for the segmentaion with the relevant file name : Documentation/Scripts_data/* then chose the script in function of the digital-library.    
 2. Install the virtual environnement :  deploy_yaltai_env.sh 
-3. Segment : use the right script in function of the quatity of data. sbatch script, for a small quantity of data, you can use the Notebook (Documentations/Notebook/segmentation_for_light_dataset.ipynb)
-4. Format data for escriptorium : "change_xml_file_name.py" (make the link between the image.file and the xml.file)
+3. prepare the segmentation :  prepare_data_seg.sh (downlaod the segmentation and the htr model.)
+4. Segment : use the right script in function of the quatity of data : sbatch script or for a small quantity of data, you can use the Notebook (Documentations/Notebook/segmentation_for_light_dataset.ipynb)
+5. Format data for escriptorium : "change_xml_file_name.py" (make the link between the image.file and the xml.file)
 
 
