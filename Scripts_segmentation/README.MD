@@ -1,5 +1,7 @@
 ## Scripts_segmentation
 
+### scripts description 
+
 Some scripts still need to be improved to enable true automatization of the hpc cluster. 
 * the sub_ script are batch for the training of the OCR
 * the other are just normal bash script 
@@ -22,3 +24,6 @@ for now the script.py are very simple so... they work! with the requirement.
 for beginner there is a more commented version in the Notebook files.
 
 personal note: for a batch script using gpu, take the same parameter as for the OCR. (save the idee...now just have to make the script...) 
+### Use in eScriptorium
+For using the file in eScriptorium, applie the script "change_xml_file_name.py". \n
+make the link between the image.file and the xml.file
