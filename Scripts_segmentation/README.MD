@@ -11,7 +11,7 @@ table of result:
 
 | scripts                      | working | on test | conception |
 |------------------------------|---------|---------|------------|
-| deploy_seg_env.sh            |Y        | N       |-           |
+| deploy_yaltai_env.sh         |Y        | N       |-           |
 | prepare_data_seg.sh          |Y        | N       |-           |
 | sub_script_segm_cpu.sh       |Y        | N       |-           |
 | sub_script_segm_gpu.sh       |N        | N       |Yes         |
@@ -24,6 +24,12 @@ for now the script.py are very simple so... they work! with the requirement.
 for beginner there is a more commented version in the Notebook files.
 
 personal note: for a batch script using gpu, take the same parameter as for the OCR. (save the idee...now just have to make the script...) 
-### Use in eScriptorium
-For using the file in eScriptorium, applie the script "change_xml_file_name.py" : \
-make the link between the image.file and the xml.file
+
+### use of the script
+
+1. Prepare the data for the segmentaion with the relevant file name : prepare_data_seg.sh   
+2. Install the virtual environnement :  deploy_yaltai_env.sh 
+3. Segment : use the right script in function of the quatity of data. sbatch script, for a small quantity of data, you can use the Notebook (Documentations/Notebook/segmentation_for_light_dataset.ipynb)
+4. Format data for escriptorium : "change_xml_file_name.py" (make the link between the image.file and the xml.file)
+
+
