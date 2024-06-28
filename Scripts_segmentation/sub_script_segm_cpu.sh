@@ -22,3 +22,5 @@ srun yaltai kraken --device cpu -I "content/image/*" --suffix ".xml" segment --y
 python Documentations/Scripts_segmentation/change_xml_file_name.py
 #zip the file 
 zip -r altos_segmented.zip content/image/*xml
+
+# pour 230 image 8h de calcule
