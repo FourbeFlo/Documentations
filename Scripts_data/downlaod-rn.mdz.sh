@@ -16,7 +16,7 @@ for ((i=start_index; i<=end_index; i++)); do
     wget "$url" -O "bsb10313792_${index}.jpg"
 done
 
-echo "Download and renaming complete!"
+echo "Download and renaming completed!"
 
 #use the script
 

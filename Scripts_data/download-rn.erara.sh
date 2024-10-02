@@ -19,7 +19,7 @@ for ((i=start_index; i<=end_index; i++)); do
     mv "$downloaded_file" "${downloaded_file}.png"
 done
 
-echo "Download and renaming complete!"
+echo "Download and renaming completed!"
 
 #use the script
 
