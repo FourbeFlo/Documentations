@@ -16,7 +16,7 @@ for ((i=start_index; i<=end_index; i++)); do
     
     # Rename the downloaded file to have the .png extension
     downloaded_file=$(basename "$url")
-    mv "$downloaded_file" "${downloaded_file}.png"
+    mv "$downloaded_file" "${downloaded_file}.jpeg"
 done
 
 echo "Download and renaming completed!"

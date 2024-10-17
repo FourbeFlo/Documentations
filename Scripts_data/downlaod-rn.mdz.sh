@@ -13,7 +13,7 @@ for ((i=start_index; i<=end_index; i++)); do
     echo "Downloading: $url"
 
     # Use wget to download the file
-    wget "$url" -O "bsb10313792_${index}.jpg"
+    wget "$url" -O "bsb10313792_${index}.jpeg"
 done
 
 echo "Download and renaming completed!"
@@ -23,5 +23,4 @@ echo "Download and renaming completed!"
 #on mdz the number after the zeros is the unique identifier of the file 
 #use these numbers as start_index and end_index 
 
-#more information on the generale Guideline "comming soon"
 
