@@ -18,12 +18,13 @@ for ((i=start_index; i<=end_index; i++)); do
     echo "Downloading: $url"
 
     # Use wget to download the file
-    wget "$url" -O "${1}${index}.jpeg"
+    wget "$url" -O "${1}${index}.jpg"
 done
 
 echo "Download and renaming completed!"
 
 #Use of the script 
+# bash run_script.sh $1 $2 $3
 # bash run_script.sh bsb11059254_ 1 658 
 # were $1 = base url = bsb11059254_ ; $2 = start_index = page one of your document ;$3 = end_index = end page of your document
 # working for this format of url link : https://api.digitale-sammlungen.de/iiif/image/v2/bsb11059254_00008/full/full/0/default.jpg

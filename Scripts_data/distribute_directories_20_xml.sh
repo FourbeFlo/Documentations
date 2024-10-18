@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Source directory containing all file.xml
-source_directory="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Bucer_Rom_001"
+source_directory="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Lefevre_var_003"
 
 # Destination directory where subdirectories will be created
-destination_directory="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Bucer_Rom_001/XML"
+destination_directory="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Lefevre_var_003/XML"
 
 # Create destination directory if it doesn't exist
 mkdir -p "$destination_directory"

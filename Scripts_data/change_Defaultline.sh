@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory containing the XML files
-DIRECTORY="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Bucer_Rom_001"
+DIRECTORY="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Lefevre_var_003"
 
 # Loop through each XML file in the directory
 for xmlfile in "$DIRECTORY"/*.xml; do

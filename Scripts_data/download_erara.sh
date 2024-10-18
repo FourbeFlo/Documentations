@@ -27,6 +27,7 @@ done
 echo "Download and renaming completed!"
 
 #Use of the script 
+# bash run_script.sh $1 $2 ; 
 # bash run_script.sh 2012883 20128980 
 # where $1 = start_index = page one of your document ;$2 = end_index = end page of your document
 # working for this format of url link : https://www.e-rara.ch/download/webcache/1000/2012883
