@@ -1,5 +1,6 @@
 
-# `Script.sh` : Automated Download, Naming Convention, and Data Management
+# `Script.sh`
+## Naming Convention, and Data Management
 
 This set of bash scripts automates the download and renaming of digital books, simplifies data management, and ensures smooth post-segmentation processing of large datasets on HPC systems. These datasets are specifically formatted for use in eScriptorium.
 
