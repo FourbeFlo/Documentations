@@ -12,10 +12,12 @@ Some scripts require further improvements to fully automate tasks on the HPC clu
 
 | Script                       | Working | In Testing | Under Development |
 |------------------------------|---------|------------|-------------------|
-| `deploy_yaltai_env.sh`        | Yes     | No         | -                 |
-| `prepare_data_seg.sh`         | Yes     | No         | -                 |
-| `sub_script_segm_cpu.sh`      | Yes     | No         | -                 |
-| `sub_script_segm_gpu.sh`      | No      | No         | Yes               |
+| `deploy_yaltai_env.sh`       | Y      | N          | -                 |
+| `prepare_data_seg.sh`        | Y      | N          | -                 |
+| `sub_script_segm_cpu.sh`     | Y      | N          | -                 |
+| `sub_script_segm_gpu.sh`     | N      | N          | Y                 |
+| `seg.py`                     | Y      | N          | -                 |
+| `change_xml_file_name.py`    | Y      | N          | Y                 |
 
 * **Y = Yes** (Working)
 * **N = No** (Not Working)
@@ -23,7 +25,7 @@ Some scripts require further improvements to fully automate tasks on the HPC clu
 
 ---
 
-The `script.py` files are currently simple but functional, fulfilling the necessary requirements. For beginners, more detailed versions are available in the notebook files, with added comments for easier understanding.
+The `script.py` function as module of the script.sh. For beginners, more detailed versions are available in the notebook files, with added comments for easier understanding.
 
 **Personal Note**: When creating a batch script for GPU use, it should take the same parameters as the OCR training script. This idea is noted, and the script will be developed soon.
 
