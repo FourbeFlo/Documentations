@@ -36,7 +36,7 @@ The `script.py` function as module of the script.sh. For beginners, more detaile
 Here are the steps to use the segmentation scripts:
 
 1. **Prepare the data for segmentation**: 
-   - Ensure that files are named correctly for the specific digital library. Documentation can be found in `Documentation/Scripts_data/`.
+   - Ensure that files are named correctly for the specific digital library. Documentation can be found in `Documentation/Scripts_data/downlaod_*.sh`.
    - Choose the appropriate script based on the digital library source.
 
 2. **Install the virtual environment**: 
