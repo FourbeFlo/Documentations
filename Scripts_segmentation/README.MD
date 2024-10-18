@@ -5,7 +5,7 @@
 
 Some scripts require further improvements to fully automate tasks on the HPC cluster. 
 
-- The `sub_` scripts are designed for batch processing and training of the OCR (Optical Character Recognition).
+- The `sub_` scripts are designed for batch processing.
 - The other scripts are regular bash scripts used for segmentation-related tasks.
 
 ### Overview of Scripts
@@ -38,7 +38,7 @@ Here are the steps to use the segmentation scripts:
    - Choose the appropriate script based on the digital library source.
 
 2. **Install the virtual environment**: 
-   - Use `deploy_yaltai_env.sh` to set up the required environment for segmentation and OCR tasks.
+   - Use `deploy_yaltai_env.sh` to set up the required environment for segmentation tasks.
 
 3. **Prepare the segmentation process**: 
    - Run `prepare_data_seg.sh` to download the necessary segmentation and HTR (Handwritten Text Recognition) models.
