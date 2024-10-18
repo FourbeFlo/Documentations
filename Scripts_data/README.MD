@@ -13,6 +13,8 @@ table of result:
 |distribute_dir_20_images.sh   |Y        |-        |-           |
 |distribute_dir_20_xml.sh      |Y        |-        |-           |
 |filtre_jpg.sh                 |Y        |-        |-           |
+|downlaod-rn.mdz.sh            |Y        |-        |old version |
+|downlaod-rn.erara.sh          |Y        |-        |old version |
 
 * Y=Yes
 * N=No
