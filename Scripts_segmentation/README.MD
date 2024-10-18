@@ -1,37 +1,56 @@
-## Scripts_segmentation
 
-### scripts description 
+## `Scripts_segmentation`
 
-Some scripts still need to be improved to enable true automatization of the hpc cluster. 
-* the sub_ script are batch for the training of the OCR
-* the other are just normal bash script 
+### Script Descriptions
 
+Some scripts require further improvements to fully automate tasks on the HPC cluster. 
 
-table of result: 
+- The `sub_` scripts are designed for batch processing and training of the OCR (Optical Character Recognition).
+- The other scripts are regular bash scripts used for segmentation-related tasks.
 
-| scripts                      | working | on test | conception |
-|------------------------------|---------|---------|------------|
-| deploy_yaltai_env.sh         |Y        | N       |-           |
-| prepare_data_seg.sh          |Y        | N       |-           |
-| sub_script_segm_cpu.sh       |Y        | N       |-           |
-| sub_script_segm_gpu.sh       |N        | N       |Yes         |
+### Overview of Scripts
 
-* Y=Yes
-* N=No
-* \- = no comment
+| Script                       | Working | In Testing | Under Development |
+|------------------------------|---------|------------|-------------------|
+| `deploy_yaltai_env.sh`        | Yes     | No         | -                 |
+| `prepare_data_seg.sh`         | Yes     | No         | -                 |
+| `sub_script_segm_cpu.sh`      | Yes     | No         | -                 |
+| `sub_script_segm_gpu.sh`      | No      | No         | Yes               |
 
-for now the script.py are very simple so... they work! with the requirement.
-for beginner there is a more commented version in the Notebook files.
+* **Y = Yes** (Working)
+* **N = No** (Not Working)
+* **\- = No Comment**
 
-personal note: for a batch script using gpu, take the same parameter as for the OCR. (save the idee...now just have to make the script...) 
+---
 
-### use of the script
+The `script.py` files are currently simple but functional, fulfilling the necessary requirements. For beginners, more detailed versions are available in the notebook files, with added comments for easier understanding.
 
-1. Prepare the data for the segmentaion with the relevant file name : **Documentation/Scripts_data/*** then chose the script in function of the digital-library.    
-2. Install the virtual environnement :  **deploy_yaltai_env.sh** 
-3. prepare the segmentation :  **prepare_data_seg.sh** (downlaod the segmentation and the htr model.)
-4. Segment : use the right script in function of the quatity of data : sbatch script in **sub_script_segm_*.sh** or for a small quantity of data, you can use the Notebook : **Documentations/Notebook/segmentation_for_light_dataset.ipynb**
-  - now you a file segmented file.zip contaning your xml/alto files. 
-5. Format data for escriptorium : **change_xml_file_name.py** (make the link between the image.file and the xml.file)
+**Personal Note**: When creating a batch script for GPU use, it should take the same parameters as the OCR training script. This idea is noted, and the script will be developed soon.
 
+---
 
+### Using the Scripts
+
+Here are the steps to use the segmentation scripts:
+
+1. **Prepare the data for segmentation**: 
+   - Ensure that files are named correctly for the specific digital library. Documentation can be found in `Documentation/Scripts_data/`.
+   - Choose the appropriate script based on the digital library source.
+
+2. **Install the virtual environment**: 
+   - Use `deploy_yaltai_env.sh` to set up the required environment for segmentation and OCR tasks.
+
+3. **Prepare the segmentation process**: 
+   - Run `prepare_data_seg.sh` to download the necessary segmentation and HTR (Handwritten Text Recognition) models.
+
+4. **Segmentation**:
+   - For large datasets, use the HPC cluster with the appropriate batch script (`sbatch`): 
+     - CPU-based segmentation: `sub_script_segm_cpu.sh`
+     - GPU-based segmentation: `sub_script_segm_gpu.sh` (under development)
+   - For smaller datasets, you can use the Jupyter notebook available at `Documentations/Notebook/segmentation_for_light_dataset.ipynb`.
+   - After segmentation, you will have a `.zip` file containing the segmented XML/ALTO files.
+
+5. **Format data for eScriptorium**: 
+   - Use `change_xml_file_name.py` to align the image file names with their corresponding XML file names, ensuring compatibility with eScriptorium.
+
+---
