@@ -7,12 +7,25 @@ table of result:
 
 | scripts                      | working | on test | conception |
 |------------------------------|---------|---------|------------|
-|download-rn.erara.sh          |Y        |-        | -          |
-|download-rn.mdz.sh            |Y        |N        | -          |
-|download-rn-ext.erara-sh      |N        |N        | Y          |
+|download_erara.sh             |Y        |-        |-           |
+|download_mdz.sh               |Y        |-        |-           |
+|change_Defaultine.sh          |Y        |-        |-           |
+|distribute_dir_20_images.sh   |Y        |-        |-           |
+|distribute_dir_20_xml.sh      |Y        |-        |-           |
+|filtre_jpg.sh                 |Y        |-        |-           |
 
 * Y=Yes
 * N=No
 * \- = no comment
 
-download-rn-ext.erara-sh :a script in which the identifiers are values that you can change from the terminal or a list/dictionary, so that the work can be done on a larger scale.
+## uses of the script :
+download_*.sh : download and rename the e-rara and mdz digitalbook according our standar. 
+* for mdz : run_script.sh  [web indetifier] [start_index] [end_index] 
+* for e-rara : run_script.sh [start_index] [end_index]
+
+## the following script enable a better data on eScriptorium
+* change_Defaultine.sh  : change the name of the "default" type in Defaultline already selected in eScriptorium. But you must selecte manualy the other lines
+* distribute_dir allowed to separate your data set in folder of 20 images and 20 xml zipped file, so you do not overflow the server adding to much data.
+
+## correcting failure 
+* filter_jpg.sh enable to find back the file.jpg that do not have a xml file corresponding in case of failure of a part of the segmentation process. 
