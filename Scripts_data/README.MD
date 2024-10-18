@@ -1,5 +1,5 @@
 
-# `Script.sh` : Automated Download and Naming Convention
+# `Script.sh` : Automated Download, Naming Convention, Data Managments
 
 This set of bash scripts automates the download and renaming of digital books, managing data more effectively after the pre-segmentation process of large datasets on HPC systems. These datasets are intended for use in eScriptorium.
 
@@ -7,14 +7,14 @@ This set of bash scripts automates the download and renaming of digital books, m
 
 | Script                       | Working | In Testing | Under Development |
 |------------------------------|---------|------------|-------------------|
-| `download_erara.sh`           | Yes     | -          | -                 |
-| `download_mdz.sh`             | Yes     | -          | -                 |
-| `change_Defaultine.sh`        | Yes     | -          | -                 |
-| `distribute_dir_20_images.sh` | Yes     | -          | -                 |
-| `distribute_dir_20_xml.sh`    | Yes     | -          | -                 |
-| `filter_jpg.sh`               | Yes     | -          | -                 |
-| `download-rn.mdz.sh`          | Yes     | -          | Old Version       |
-| `download-rn.erara.sh`        | Yes     | -          | Old Version       |
+| `download_erara.sh`           | Yes     | -         | -                 |
+| `download_mdz.sh`             | Yes     | -         | -                 |
+| `change_Defaultine.sh`        | Yes     | -         | -                 |
+| `distribute_dir_20_images.sh` | Yes     | -         | -                 |
+| `distribute_dir_20_xml.sh`    | Yes     | -         | -                 |
+| `filter_jpg.sh`               | Yes     | -         | -                 |
+| `download-rn.mdz.sh`          | Yes     | -         | Old Version       |
+| `download-rn.erara.sh`        | Yes     | -         | Old Version       |
 
 * **Y = Yes** (Working)
 * **N = No** (Not Working)
