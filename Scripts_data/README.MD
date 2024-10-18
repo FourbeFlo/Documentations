@@ -1,36 +1,49 @@
-# Script.sh : 
 
-script bash for automatized download and naming convention according to our standards. 
-Theses script simplifies the data managment after the pre-segmentation done of large amount of data with HPC on purpuse to use eScriptorium. 
+# `Script.sh` : Automated Download and Naming Convention
 
+This set of bash scripts automates the download and renaming of digital books, managing data more effectively after the pre-segmentation process of large datasets on HPC systems. These datasets are intended for use in eScriptorium.
 
-table of result: 
+## Overview of Scripts
 
-| scripts                      | working | on test | conception |
-|------------------------------|---------|---------|------------|
-|download_erara.sh             |Y        |-        |-           |
-|download_mdz.sh               |Y        |-        |-           |
-|change_Defaultine.sh          |Y        |-        |-           |
-|distribute_dir_20_images.sh   |Y        |-        |-           |
-|distribute_dir_20_xml.sh      |Y        |-        |-           |
-|filtre_jpg.sh                 |Y        |-        |-           |
-|downlaod-rn.mdz.sh            |Y        |-        |old version |
-|downlaod-rn.erara.sh          |Y        |-        |old version |
+| Script                       | Working | In Testing | Under Development |
+|------------------------------|---------|------------|-------------------|
+| `download_erara.sh`           | Yes     | -          | -                 |
+| `download_mdz.sh`             | Yes     | -          | -                 |
+| `change_Defaultine.sh`        | Yes     | -          | -                 |
+| `distribute_dir_20_images.sh` | Yes     | -          | -                 |
+| `distribute_dir_20_xml.sh`    | Yes     | -          | -                 |
+| `filter_jpg.sh`               | Yes     | -          | -                 |
+| `download-rn.mdz.sh`          | Yes     | -          | Old Version       |
+| `download-rn.erara.sh`        | Yes     | -          | Old Version       |
 
-* Y=Yes
-* N=No
-* \- = no comment
+* **Y = Yes** (Working)
+* **N = No** (Not Working)
+* **\- = No Comment**
 
-# uses of the script
+---
 
-## downloading digitalbooks 
-download_*.sh : download and rename the e-rara and mdz digitalbook according our standar. 
-* for mdz : run_script.sh  [web indetifier] [start_index] [end_index] 
-* for e-rara : run_script.sh [start_index] [end_index]
+## Usage of the Scripts
 
-## formate your dataset to eScriptorium
-* change_Defaultine.sh  : change the name of the "default" type in Defaultline already selected in eScriptorium. But you must selecte manualy the other lines
-* distribute_dir allowed to separate your data set in folder of 20 images and 20 xml zipped file, so you do not overflow the server adding to much data.
+### 1. Downloading Digital Books
 
-## correcting failure 
-* filter_jpg.sh enable to find back the file.jpg that do not have a xml file corresponding in case of failure of a part of the segmentation process. 
+- **`download_*.sh`**: These scripts download and rename e-rara and MDZ digital books according to the defined naming standards.
+  - For MDZ:
+    ```
+    run_script.sh [web_identifier] [start_index] [end_index]
+    ```
+  - For e-rara:
+    ```
+    run_script.sh [start_index] [end_index]
+    ```
+
+### 2. Formatting Datasets for eScriptorium
+
+- **`change_Defaultine.sh`**: This script renames the "default" type in the Defaultline format, already selected in eScriptorium. Other lines must be selected manually.
+  
+- **`distribute_dir_20_images.sh`** and **`distribute_dir_20_xml.sh`**: These scripts separate your dataset into folders containing 20 images and 20 XML files each. This prevents server overload when uploading large amounts of data.
+
+### 3. Error Correction
+
+- **`filter_jpg.sh`**: This script identifies `.jpg` files that do not have a corresponding XML file in cases where segmentation processes fail. It allows you to recover missing pairs.
+
+---
