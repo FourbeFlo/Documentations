@@ -30,6 +30,7 @@ This set of bash scripts automates the download and renaming of digital books, m
   - For MDZ:
     ```
     run_script.sh [web_identifier] [start_index] [end_index]
+    .\download_mdz.sh bsb11059254_ 1 5
     ```
   - For e-rara:
     ```
