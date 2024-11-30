@@ -19,7 +19,7 @@ python Scripts_segmentation/seg.py
 srun yaltai kraken --device cpu -I "content/image/*/*" --suffix ".xml" segment --yolo content/seg_model.pt
 
 # use the python script for changing the name of the file
-bash Scripts_segmentation/change_filename_inthexml.sh
+. ~/Scripts_segmentation/change_filename_inthexml.sh
 #zip the file 
 zip -r altos_segmented.zip content/image/*/*xml
 
