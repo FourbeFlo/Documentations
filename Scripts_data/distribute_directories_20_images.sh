@@ -1,10 +1,17 @@
 #!/bin/bash
 
-# Source directory containing all .jpeg and .jpg files
-source_directory="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Lefevre_var_003"
+# Check if the correct number of arguments is provided
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 <file_name>"
+    exit 1
+fi
 
+#variable
+file_name=$1
+# Source directory containing all .jpeg and .jpg files
+source_directory="/home/floriane/Documents/Lambert_Daneau/presegmt_doc/images/$1"
 # Destination directory where subdirectories will be created
-destination_directory="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Lefevre_var_003/images"
+destination_directory="/home/floriane/Documents/Lambert_Daneau/presegmt_doc/images/$1/images"
 
 # Create destination directory if it doesn't exist
 mkdir -p "$destination_directory"

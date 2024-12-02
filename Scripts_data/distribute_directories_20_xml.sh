@@ -1,10 +1,17 @@
 #!/bin/bash
 
+# Check if the correct number of arguments is provided
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 <file_name>"
+    exit 1
+fi
+# variable 
+file_name=$1
 # Source directory containing all file.xml
-source_directory="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Lefevre_var_003"
+source_directory="/home/floriane/Documents/Lambert_Daneau/presegmt_doc/images/$1"
 
 # Destination directory where subdirectories will be created
-destination_directory="/home/floriane/Documents/Lambert_Daneau/pesegmt_doc/Lefevre_var_003/XML"
+destination_directory="/home/floriane/Documents/Lambert_Daneau/presegmt_doc/images/$1/XML"
 
 # Create destination directory if it doesn't exist
 mkdir -p "$destination_directory"
